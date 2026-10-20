@@ -121,6 +121,62 @@
       "type": 1
     },
     {
+      "name": "Husk",
+      "bundleIdentifier": "com.husk.app",
+      "developerName": "Leviidev",
+      "version": "3.0",
+      "versionDate": "2026-10-19",
+      "size": 140126095,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-10-19",
+          "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+          "size": 140126095,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne",
+      "tintColor": "#9995DA",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "bundleID": "com.husk.app",
+      "fullDate": "20261019030040",
+      "type": 1
+    },
+    {
+      "name": "Balatro",
+      "bundleIdentifier": "com.unofficial.balatro",
+      "developerName": "driftywinds",
+      "version": "1.0.1o",
+      "versionDate": "2025-02-26",
+      "size": 91750400,
+      "minOSVersion": "14.0",
+      "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+      "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+      "versions": [
+        {
+          "version": "1.0.1o",
+          "date": "2025-02-26",
+          "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+          "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+          "size": 91750400,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+      "tintColor": "#95B8DA",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+      "bundleID": "com.unofficial.balatro",
+      "fullDate": "20250226000000",
+      "type": 1
+    },
+    {
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "@riftysIPAlibrary",
