@@ -21,6 +21,16 @@
 
 This repository contains `repo.json`, a source manifest compatible with AltStore and LiveContainer. It aims to provide the latest available versions of apps commonly used by the community.
 
+You can also view this repository in a web format:
+
+<p align="center">
+  <a href="https://longopy.github.io/lcsource-viewer/?source=https://raw.githubusercontent.com/longopy/peoples-repository/main/repo.json">
+    <img
+      alt="View in LCSource Viewer"
+      src="https://raw.githubusercontent.com/longopy/lcsource-viewer/main/assets/view_in_badge.webp" width="180">
+  </a>
+</p>
+
 ## One-Tap Setup
 
 On your iOS device, tap the button for your installed app to add this source:
