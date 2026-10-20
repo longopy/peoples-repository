@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     <img alt="Platform" src="https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white">
-    <img alt="Compatible with AltStore and LiveContainer" src="https://img.shields.io/badge/compatible-AltStore%20%7C%20LiveContainer-4c8bf5">
+    <img src="https://img.shields.io/badge/AltStore-LiveContainer-007AFF" alt="AltStore and LiveContainer">
   </p>
   <p>
     <img alt="Last updated October 20, 2026 at 00:00 UTC" src="https://img.shields.io/badge/updated-2026--10--20%2000%3A00%20UTC-2ea44f">
