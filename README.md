@@ -6,11 +6,16 @@
 
 <p align="center">A community-curated app source for AltStore and LiveContainer.</p>
 
-<p align="center">
-  <a href="https://github.com/longopy/peoples-repository"><img alt="Platform" src="https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white"></a>
-  <a href="https://github.com/longopy/peoples-repository/blob/main/repo.json"><img alt="Compatible with AltStore and LiveContainer" src="https://img.shields.io/badge/compatible-AltStore%20%7C%20LiveContainer-4c8bf5"></a>
-  <img alt="Last updated October 20, 2026 at 00:00 UTC" src="https://img.shields.io/badge/updated-2026--10--20%2000%3A00%20UTC-2ea44f">
-</p>
+<div align="center">
+  <p>
+    <img alt="Platform" src="https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white">
+    <img alt="Compatible with AltStore and LiveContainer" src="https://img.shields.io/badge/compatible-AltStore%20%7C%20LiveContainer-4c8bf5">
+  </p>
+  <p>
+    <img alt="Last updated October 20, 2026 at 00:00 UTC" src="https://img.shields.io/badge/updated-2026--10--20%2000%3A00%20UTC-2ea44f">
+  </p>
+ </p>
+ </div>
 
 ## About
 
@@ -21,8 +26,8 @@ This repository contains `repo.json`, a source manifest compatible with AltStore
 On your iOS device, tap the button for your installed app to add this source:
 
 <p align="center">
-  <a href="altstore://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Flongopy%2Fpeoples-repository%2Fmain%2Frepo.json"><img alt="Add to AltStore" src="https://img.shields.io/badge/Add%20to-AltStore-4c8bf5?style=for-the-badge"></a>
-  <a href="livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Flongopy%2Fpeoples-repository%2Fmain%2Frepo.json"><img alt="Add to LiveContainer" src="https://img.shields.io/badge/Add%20to-LiveContainer-6b5ce7?style=for-the-badge"></a>
+  <a href="https://altdirect.app/?url=https://raw.githubusercontent.com/longopy/peoples-repository/main/repo.json&r=altstore"><img alt="Add to AltStore" src="https://img.shields.io/badge/Add%20to-AltStore-00ad43?style=for-the-badge"></a>
+  <a href="https://altdirect.app/?url=https://raw.githubusercontent.com/longopy/peoples-repository/main/repo.json&r=livecontainer"><img alt="Add to LiveContainer" src="https://img.shields.io/badge/Add%20to-LiveContainer-007AFF?style=for-the-badge"></a>
 </p>
 
 If the link does not open or your app does not support source links, follow the [manual setup instructions](#add-the-repository-manually) below.
@@ -43,20 +48,13 @@ https://raw.githubusercontent.com/longopy/peoples-repository/main/repo.json
 
 ### LiveContainer
 
-If your version of LiveContainer includes a source manager:
+To add a source in LiveContainer:
 
-1. Open the source manager and select the option to add a source.
-2. Paste the source URL and confirm. Menu names may vary by version.
-3. Select the newly added source to browse its available apps.
-
-If your version does not include a source manager:
-
-1. Add the source to a compatible client that supports downloading `.ipa` files.
-2. Download the `.ipa` file for the app you want to install.
-3. Open LiveContainer, tap **+**, and select the downloaded file to import it.
-
-**Note:** Not all apps are compatible with LiveContainer.
-
+1. Open LiveContainer on your iOS device.
+2. In the bottom navigation bar, switch to the **Sources** tab.
+3. Tap the **+** icon in the top corner of the screen.
+4. Under **Add Manually**, paste the URL of the `.json` source or repository you want to add.
+5. Tap **Add Source** to confirm.
 
 ## Disclaimer
 

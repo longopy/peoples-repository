@@ -6,7 +6,7 @@
   "subtitle": "The apps that all the People need",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
-  "iconURL": "",
+  "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
   "apps": [
     {
       "name": "Vitrine (v1.0.0 Beta 13 - Not Patched) IPAVault",
