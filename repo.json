@@ -30,7 +30,7 @@
         }
       ],
       "subtitle": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2",
-      "tintColor": "000000",
+      "tintColor": "#256A3E",
       "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "bundleID": "com.spotify.client.ios.vitrine.1.0.0.beta.13.not.patched.9.1.90",
       "fullDate": "20261013030031",
@@ -58,7 +58,7 @@
         }
       ],
       "subtitle": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
-      "tintColor": "000000",
+      "tintColor": "#E2ACAC",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
       "fullDate": "20261019030040",
@@ -86,10 +86,66 @@
         }
       ],
       "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
-      "tintColor": "000000",
+      "tintColor": "#E2ACAC",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
       "fullDate": "20261020030047",
+      "type": 1
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.media",
+      "developerName": "scholars lounge",
+      "version": "0.6.2",
+      "versionDate": "2026-10-20",
+      "size": 68666779,
+      "minOSVersion": "14.0",
+      "localizedDescription": "scholars lounge | Nuvio Version: 0.6.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/80605.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/80605-nuvio-0.6.2-full-release.ipa",
+      "versions": [
+        {
+          "version": "0.6.2",
+          "date": "2026-10-20",
+          "localizedDescription": "scholars lounge | Nuvio Version: 0.6.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/80605-nuvio-0.6.2-full-release.ipa",
+          "size": 68666779,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "scholars lounge | Nuvio Version: 0.6.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
+      "tintColor": "#CDACE2",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/80605.png",
+      "bundleID": "com.nuvio.media",
+      "fullDate": "20261020030047",
+      "type": 1
+    },
+    {
+      "name": "Lyfta",
+      "bundleIdentifier": "com.lyftaios",
+      "developerName": "@riftysIPAlibrary",
+      "version": "1.164",
+      "versionDate": "2026-10-13",
+      "size": 56346945,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.164  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8327.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8327-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.164-riftysipas.ipa",
+      "versions": [
+        {
+          "version": "1.164",
+          "date": "2026-10-13",
+          "localizedDescription": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.164  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8327-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.164-riftysipas.ipa",
+          "size": 56346945,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.164  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+      "tintColor": "#ACC9E2",
+      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8327.png",
+      "bundleID": "com.lyftaios",
+      "fullDate": "20261013030031",
       "type": 1
     }
   ]
