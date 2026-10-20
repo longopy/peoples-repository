@@ -1,0 +1,96 @@
+{
+  "name": "People's Repository",
+  "identifier": "com.peoples.repo",
+  "author": "Longopy",
+  "website": "https://github.com/longopy/peoples-repository",
+  "subtitle": "The apps that all the People need",
+  "description": "A repository containing all the essential apps for the People.",
+  "tintColor": "#10ADEB",
+  "iconURL": "",
+  "apps": [
+    {
+      "name": "Vitrine (v1.0.0 Beta 13 - Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.13.not.patched.9.1.90",
+      "developerName": "Spotify",
+      "version": "9.1.90",
+      "versionDate": "2026-10-13",
+      "size": 130219610,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine%201.0.0-b13%29%20No%20Plugins.ipa",
+      "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-10-13",
+          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine%201.0.0-b13%29%20No%20Plugins.ipa",
+          "size": 130219610,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.vitrine.1.0.0.beta.13.not.patched.9.1.90",
+      "fullDate": "20261013030031",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
+      "developerName": "YouTube",
+      "version": "21.41.5",
+      "versionDate": "2026-10-19",
+      "size": 153720637,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.41.5_YP.ipa",
+      "versions": [
+        {
+          "version": "21.41.5",
+          "date": "2026-10-19",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.41.5_YP.ipa",
+          "size": 153720637,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
+      "fullDate": "20261019030040",
+      "type": 1
+    },
+    {
+      "name": "YTMusicUltimate+ (Patched - IPAVault)",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
+      "developerName": "YouTube",
+      "version": "9.42.2",
+      "versionDate": "2026-10-20",
+      "size": 108476393,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.42.2%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "9.42.2",
+          "date": "2026-10-20",
+          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.42.2%20%5B@ipavault%5D.ipa",
+          "size": 108476393,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
+      "fullDate": "20261020030047",
+      "type": 1
+    }
+  ]
+}
