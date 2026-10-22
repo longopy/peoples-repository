@@ -14,22 +14,22 @@
       "developerName": "Spotify",
       "version": "9.1.90",
       "versionDate": "2026-10-21",
-      "size": 130361203,
+      "size": 130138653,
       "minOSVersion": "14.0",
-      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "9.1.90",
           "date": "2026-10-21",
-          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.",
+          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.",
           "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
-          "size": 130361203,
+          "size": 130138653,
           "minOSVersion": "14.0"
         }
       ],
-      "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.",
+      "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.",
       "tintColor": "#256A3E",
       "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "bundleID": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
@@ -37,32 +37,23 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
+      "name": "YTPlus/YTLite Cracked (6.0 BETA 2)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.beta.2.latest",
       "developerName": "YouTube",
-      "version": "21.41.5",
-      "versionDate": "2026-10-19",
-      "size": 153720637,
-      "minOSVersion": "14.0",
-      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.41.5_YP.ipa",
+      "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This is updated by BallerMC to use the latest version of YouTube.",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
+      "tintColor": "#E2ACAC",
       "versions": [
         {
-          "version": "21.41.5",
-          "date": "2026-10-19",
-          "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
-          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.41.5_YP.ipa",
-          "size": 153720637,
-          "minOSVersion": "14.0"
+          "version": "21.42.4",
+          "date": "2026-10-21T00:00:00Z",
+          "localizedDescription": "This uses 21.42.4 version of YouTube.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.42.4_YTPlus_v6.0_Beta_2_cracked%5Btg%40tubevault%5D.ipa",
+          "size": 155540836
         }
       ],
-      "subtitle": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
-      "tintColor": "#E2ACAC",
-      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
-      "fullDate": "20261019030040",
-      "type": 1
+      "appPermissions": {}
     },
     {
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
