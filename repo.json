@@ -9,32 +9,27 @@
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
   "apps": [
     {
-      "name": "Vitrine + Pixie (Not Patched) IPAVault",
-      "bundleIdentifier": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
+      "name": "Vitrine (v1.0.0 Beta 14 - Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.14.not.patched.9.1.90",
       "developerName": "Spotify",
-      "version": "9.1.90",
-      "versionDate": "2026-10-21",
-      "size": 130138653,
-      "minOSVersion": "14.0",
-      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
+      "subtitle": "Mod by My-Name-Is-Jeff",
+      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!!\nVitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2026-09-23), the last version released under GPL-3.0, and modified since.\nRead more here https://github.com/My-Name-Is-Jeff/vitrine",
+      "tintColor": "#7FD29D",
       "versions": [
         {
           "version": "9.1.90",
-          "date": "2026-10-21",
-          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
-          "size": 130138653,
-          "minOSVersion": "14.0"
+          "date": "2026-10-22T00:00:00Z",
+          "localizedDescription": "This uses 9.1.90 version of Spotify.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Vitrine%201.0.0-b14)%20No%20Plugins.ipa",
+          "size": 129857821
         }
       ],
-      "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.2.",
-      "tintColor": "#256A3E",
-      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "bundleID": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
-      "fullDate": "20261021030047",
-      "type": 1
+      "appPermissions": {},
+      "version": "9.1.90",
+      "versionDate": null,
+      "size": 129857821,
+      "minOSVersion": null
     },
     {
       "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
@@ -58,7 +53,7 @@
         }
       ],
       "subtitle": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
-      "tintColor": "#E2ACAC",
+      "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
       "fullDate": "20261023030041",
@@ -86,7 +81,7 @@
         }
       ],
       "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
-      "tintColor": "#E2ACAC",
+      "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
       "fullDate": "20261020030047",
@@ -114,10 +109,122 @@
         }
       ],
       "subtitle": "scholars lounge | Nuvio Version: 0.6.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
-      "tintColor": "#CDACE2",
+      "tintColor": "#C6A0DE",
       "icon": "https://fastsign.dev/tg-icon/scholars-lounge/80605.png",
       "bundleID": "com.nuvio.media",
       "fullDate": "20261020030047",
+      "type": 1
+    },
+    {
+      "name": "Reddit",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "scholars lounge",
+      "version": "2026.42.0",
+      "versionDate": "2026-10-21",
+      "size": 147495382,
+      "minOSVersion": "14.0",
+      "localizedDescription": "scholars lounge | RedditDeluxe 2026.42.0  - Reddit 2026.42.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/80802.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/80802-RedditDeluxes_2026.42.0_Jacks_Apps.ipa",
+      "versions": [
+        {
+          "version": "2026.42.0",
+          "date": "2026-10-21",
+          "localizedDescription": "scholars lounge | RedditDeluxe 2026.42.0  - Reddit 2026.42.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/80802-RedditDeluxes_2026.42.0_Jacks_Apps.ipa",
+          "size": 147495382,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "scholars lounge | RedditDeluxe 2026.42.0  - Reddit 2026.42.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
+      "tintColor": "#D69F8A",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/80802.png",
+      "bundleID": "com.reddit.Reddit",
+      "fullDate": "20261021030047",
+      "type": 1
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "@ipavault",
+      "version": "452.0.1",
+      "versionDate": "2026-10-22",
+      "size": 290952596,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/969.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/969-Regram%206.5%20%28IG%20452%29%20No%20Plugins.ipa",
+      "versions": [
+        {
+          "version": "452.0.1",
+          "date": "2026-10-22",
+          "localizedDescription": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/969-Regram%206.5%20%28IG%20452%29%20No%20Plugins.ipa",
+          "size": 290952596,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce",
+      "tintColor": "#D382BD",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/969.png",
+      "bundleID": "com.burbn.instagram",
+      "fullDate": "20261022030044",
+      "type": 1
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "@ipavault",
+      "version": "12.36",
+      "versionDate": "2026-10-22",
+      "size": 273446382,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@ipavault | Builds of X/Twitter 12.36  ▪Updated to X 12.36 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/976.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/976-X%2012.36%20NFB%207.2.0%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "12.36",
+          "date": "2026-10-22",
+          "localizedDescription": "@ipavault | Builds of X/Twitter 12.36  ▪Updated to X 12.36 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/976-X%2012.36%20NFB%207.2.0%20%5B@ipavault%5D.ipa",
+          "size": 273446382,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "@ipavault | Builds of X/Twitter 12.36  ▪Updated to X 12.36 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
+      "tintColor": "#61AAC7",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/976.png",
+      "bundleID": "com.atebits.Tweetie2",
+      "fullDate": "20261022030044",
+      "type": 1
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "iOSDecrypted",
+      "version": "47.4.0",
+      "versionDate": "2026-10-21",
+      "size": 495204906,
+      "minOSVersion": "14.0",
+      "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/234664.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/234664-TikTok_47_4_0_Infinitok_@ipavault_@iosdecrypted_processed.ipa",
+      "versions": [
+        {
+          "version": "47.4.0",
+          "date": "2026-10-21",
+          "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat",
+          "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/234664-TikTok_47_4_0_Infinitok_@ipavault_@iosdecrypted_processed.ipa",
+          "size": 495204906,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat",
+      "tintColor": "#BA949C",
+      "icon": "https://fastsign.dev/tg-icon/iosdecrypted/234664.png",
+      "bundleID": "com.zhiliaoapp.musically",
+      "fullDate": "20261021030047",
       "type": 1
     },
     {
@@ -142,38 +249,10 @@
         }
       ],
       "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne",
-      "tintColor": "#9995DA",
+      "tintColor": "#9895D3",
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
       "bundleID": "com.husk.app",
       "fullDate": "20261019030040",
-      "type": 1
-    },
-    {
-      "name": "Balatro",
-      "bundleIdentifier": "com.unofficial.balatro",
-      "developerName": "driftywinds",
-      "version": "1.0.1o",
-      "versionDate": "2025-02-26",
-      "size": 91750400,
-      "minOSVersion": "14.0",
-      "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
-      "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
-      "versions": [
-        {
-          "version": "1.0.1o",
-          "date": "2025-02-26",
-          "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
-          "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
-          "size": 91750400,
-          "minOSVersion": "14.0"
-        }
-      ],
-      "subtitle": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
-      "tintColor": "#95B8DA",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
-      "bundleID": "com.unofficial.balatro",
-      "fullDate": "20250226000000",
       "type": 1
     },
     {
@@ -198,10 +277,38 @@
         }
       ],
       "subtitle": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.164  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
-      "tintColor": "#ACC9E2",
+      "tintColor": "#9CBEDC",
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8327.png",
       "bundleID": "com.lyftaios",
       "fullDate": "20261013030031",
+      "type": 1
+    },
+    {
+      "name": "Balatro",
+      "bundleIdentifier": "com.unofficial.balatro",
+      "developerName": "driftywinds",
+      "version": "1.0.1o",
+      "versionDate": "2025-02-26",
+      "size": 91750400,
+      "minOSVersion": "14.0",
+      "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+      "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+      "versions": [
+        {
+          "version": "1.0.1o",
+          "date": "2025-02-26",
+          "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+          "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+          "size": 91750400,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+      "tintColor": "#6798C9",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+      "bundleID": "com.unofficial.balatro",
+      "fullDate": "20250226000000",
       "type": 1
     }
   ]
