@@ -37,23 +37,32 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked (6.0 BETA 2)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.beta.2.latest",
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
       "developerName": "YouTube",
+      "version": "21.42.4",
+      "versionDate": "2026-10-23",
+      "size": 154523810,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This is updated by BallerMC to use the latest version of YouTube.",
-      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!!",
-      "tintColor": "#E2ACAC",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.42.4_YP.ipa",
       "versions": [
         {
           "version": "21.42.4",
-          "date": "2026-10-21T00:00:00Z",
-          "localizedDescription": "This uses 21.42.4 version of YouTube.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.42.4_YTPlus_v6.0_Beta_2_cracked%5Btg%40tubevault%5D.ipa",
-          "size": 155540836
+          "date": "2026-10-23",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.42.4_YP.ipa",
+          "size": 154523810,
+          "minOSVersion": "14.0"
         }
       ],
-      "appPermissions": {}
+      "subtitle": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
+      "tintColor": "#E2ACAC",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
+      "fullDate": "20261023030041",
+      "type": 1
     },
     {
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
