@@ -9,31 +9,31 @@
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
   "apps": [
     {
-      "name": "Vitrine (v1.0.0 Beta 16 - Not Patched) IPAVault",
-      "bundleIdentifier": "com.spotify.client.ios.vitrine.1.0.0.beta.16.not.patched.9.1.90",
+      "name": "Vitrine v1.0.0-b16 + Pixie v1.3 (Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
       "developerName": "Spotify",
       "version": "9.1.90",
-      "versionDate": "2026-10-26",
-      "size": 129821981,
+      "versionDate": "2026-10-27",
+      "size": 128966892,
       "minOSVersion": "14.0",
-      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine%201.0.0-b16%29%20No%20Plugins.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "9.1.90",
-          "date": "2026-10-26",
-          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine%201.0.0-b16%29%20No%20Plugins.ipa",
-          "size": 129821981,
+          "date": "2026-10-27",
+          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
+          "size": 128966892,
           "minOSVersion": "14.0"
         }
       ],
-      "subtitle": "This is a modded version of Spotify. This works with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c790445, 2",
+      "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.",
       "tintColor": "#7FD29D",
       "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "bundleID": "com.spotify.client.ios.vitrine.1.0.0.beta.16.not.patched.9.1.90",
-      "fullDate": "20261026040027",
+      "bundleID": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
+      "fullDate": "20261027040029",
       "type": 1
     },
     {
@@ -95,34 +95,30 @@
     {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "NuvioMedia",
-      "subtitle": "A free, open-source media app for your phone, your desktop, and the TV you already own.",
-      "localizedDescription": "A free, open-source media app for your phone, your desktop, and the TV you already own.\n\nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.",
-      "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
-      "tintColor": "#BF9FD8",
-      "category": "entertainment",
+      "developerName": "scholars lounge",
+      "version": "0.6.5",
+      "versionDate": "2026-10-27",
+      "size": 67965485,
+      "minOSVersion": "14.0",
+      "localizedDescription": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/81923.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/81923-nuvio-0.6.5-full-release.ipa",
       "versions": [
         {
-          "version": "0.6.4",
-          "buildVersion": "147",
-          "date": "2026-10-23T23:20:42Z",
-          "localizedDescription": "- 8683505d fix(details): animate ratings on tablet @tapframe  \r\n- e6a05d1d feat(ios): support duo layout @tapframe  \r\n- b6287380 fix(deps): update haze to 1.7.3 @tapframe  \r\n- [fix(trakt): keep continue watching when a progress request fails (#2366)](https://github.com/NuvioMedia/NuvioMobile/pull/2366) @kernexshadow  \r\n- [perf(streams): compile badge rules once per change (#2365)](https://github.com/NuvioMedia/NuvioMobile/pull/2365) @kernexshadow  \r\n- [perf(debrid): cache stream filter regexes and reuse stream facts (#2362)](https://github.com/NuvioMedia/NuvioMobile/pull/2362) @kernexshadow  \r\n- [i18n(el): sync the Greek locale with 0.6.3 (player badges, Simkl statuses, engine switch, party chat) (#2359)](https://github.com/NuvioMedia/NuvioMobile/pull/2359) @nosvasedis  \r\n- [feat(i18n): complete pt-BR player badges and watch party strings (#2338)](https://github.com/NuvioMedia/NuvioMobile/pull/2338) @jhojhocraazy  \r\n- [Replace libass renderer with atlas pipeline from Plezy (#2346)](https://github.com/NuvioMedia/NuvioMobile/pull/2346) @skoruppa  \r\n- [Update Hungarian translations (#2341)](https://github.com/NuvioMedia/NuvioMobile/pull/2341) @emgeje  \r\n- [i18n(vi): update strings.xml and strings_party.xml (#2339)](https://github.com/NuvioMedia/NuvioMobile/pull/2339) @blueocean2308  \r\n- 90ab7f95 fix(ratings): use real imdb logo and grey label @tapframe  \r\n- d9046775 feat(home): show ratings and age rating on hero @tapframe  \r\n- b9fbc09c fix(player): keep side panels clear of the navigation bar @tapframe  \r\n- 83e528f0 feat(player): choose a badge pack for the player @tapframe  \r\n- [Complete Spanish mobile translations (#2344)](https://github.com/NuvioMedia/NuvioMobile/pull/2344) @IberianSoldierPC  \r\n- [fix(ios): keep hardware decoding when PiP is interrupted by Notification Center (#2306)](https://github.com/NuvioMedia/NuvioMobile/pull/2306) @WhiteGiso  \r\n- [fix(android): scale ExoPlayer subtitles with the PiP window size (#2314)](https://github.com/NuvioMedia/NuvioMobile/pull/2314) @sap6  \r\n- [feat(player): auto-sync add-on subtitles on the libmpv engine (#2275)](https://github.com/NuvioMedia/NuvioMobile/pull/2275) @kernexshadow  \r\n\r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.4-beta/nuvio-0.6.4-full-release.ipa",
-          "size": 67805794,
-          "sha256": "e7670fdba3adb96f6f8292dd19539fff04d1fbd792fa0fc7b1f602b84367d969",
-          "minOSVersion": "16.1"
+          "version": "0.6.5",
+          "date": "2026-10-27",
+          "localizedDescription": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/81923-nuvio-0.6.5-full-release.ipa",
+          "size": 67965485,
+          "minOSVersion": "14.0"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
-        }
-      },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.4-beta/nuvio-0.6.4-full-release.ipa",
-      "version": "0.6.4",
-      "size": 67805794,
-      "minOSVersion": "16.1"
+      "subtitle": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
+      "tintColor": "#C6A0DE",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/81923.png",
+      "bundleID": "com.nuvio.media",
+      "fullDate": "20261027040029",
+      "type": 1
     },
     {
       "name": "Reddit",
@@ -156,28 +152,28 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "@ipavault",
-      "version": "452.0.1",
-      "versionDate": "2026-10-22",
-      "size": 290952596,
+      "version": "453.0.0",
+      "versionDate": "2026-10-27",
+      "size": 292429333,
       "minOSVersion": "14.0",
-      "localizedDescription": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/969.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/969-Regram%206.5%20%28IG%20452%29%20No%20Plugins.ipa",
+      "localizedDescription": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1059.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1059-Regram%206.5%20%28IG%20453.0.0%29%20No%20Plugins.ipa",
       "versions": [
         {
-          "version": "452.0.1",
-          "date": "2026-10-22",
-          "localizedDescription": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/969-Regram%206.5%20%28IG%20452%29%20No%20Plugins.ipa",
-          "size": 290952596,
+          "version": "453.0.0",
+          "date": "2026-10-27",
+          "localizedDescription": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1059-Regram%206.5%20%28IG%20453.0.0%29%20No%20Plugins.ipa",
+          "size": 292429333,
           "minOSVersion": "14.0"
         }
       ],
-      "subtitle": "@ipavault | Builds of Instagram 452  ▪Updated to Instagram 452 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a Paid Ce",
+      "subtitle": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a",
       "tintColor": "#D382BD",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/969.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1059.png",
       "bundleID": "com.burbn.instagram",
-      "fullDate": "20261022030044",
+      "fullDate": "20261027040029",
       "type": 1
     },
     {
@@ -211,29 +207,29 @@
     {
       "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "iOSDecrypted",
-      "version": "47.4.0",
-      "versionDate": "2026-10-21",
-      "size": 495204906,
+      "developerName": "@ipavault",
+      "version": "47.5.0",
+      "versionDate": "2026-10-27",
+      "size": 510965987,
       "minOSVersion": "14.0",
-      "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/234664.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/234664-TikTok_47_4_0_Infinitok_@ipavault_@iosdecrypted_processed.ipa",
+      "localizedDescription": "@ipavault | TikTok 47.5.0 (Infinitok test v0.0.2)  ▪  Updated to TikTok 47.5.0 ⚠️ Clean install recommended if crashes Instructions to access Infinito\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1065.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1065-TikTok%2047.5.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "47.4.0",
-          "date": "2026-10-21",
-          "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat",
-          "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/234664-TikTok_47_4_0_Infinitok_@ipavault_@iosdecrypted_processed.ipa",
-          "size": 495204906,
+          "version": "47.5.0",
+          "date": "2026-10-27",
+          "localizedDescription": "@ipavault | TikTok 47.5.0 (Infinitok test v0.0.2)  ▪  Updated to TikTok 47.5.0 ⚠️ Clean install recommended if crashes Instructions to access Infinito",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1065-TikTok%2047.5.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
+          "size": 510965987,
           "minOSVersion": "14.0"
         }
       ],
-      "subtitle": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected.  💝 Support Our Work | @iosdecryptedchat",
+      "subtitle": "@ipavault | TikTok 47.5.0 (Infinitok test v0.0.2)  ▪  Updated to TikTok 47.5.0 ⚠️ Clean install recommended if crashes Instructions to access Infinito",
       "tintColor": "#BA949C",
-      "icon": "https://fastsign.dev/tg-icon/iosdecrypted/234664.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1065.png",
       "bundleID": "com.zhiliaoapp.musically",
-      "fullDate": "20261021030047",
+      "fullDate": "20261027040029",
       "type": 1
     },
     {
