@@ -40,20 +40,20 @@
       "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - iOSDecrypted)",
       "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
       "developerName": "YouTube",
-      "version": "21.42.4",
-      "versionDate": "2026-10-23",
-      "size": 154523810,
+      "version": "21.43.5",
+      "versionDate": "2026-10-28",
+      "size": 155010835,
       "minOSVersion": "14.0",
       "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.42.4_YP.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.43.5_YP.ipa",
       "versions": [
         {
-          "version": "21.42.4",
-          "date": "2026-10-23",
+          "version": "21.43.5",
+          "date": "2026-10-28",
           "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO ",
-          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.42.4_YP.ipa",
-          "size": 154523810,
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.43.5_YP.ipa",
+          "size": 155010835,
           "minOSVersion": "14.0"
         }
       ],
@@ -61,7 +61,7 @@
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.beta.2.ipvault",
-      "fullDate": "20261023030041",
+      "fullDate": "20261028040034",
       "type": 1
     },
     {
@@ -95,30 +95,34 @@
     {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "scholars lounge",
-      "version": "0.6.5",
-      "versionDate": "2026-10-27",
-      "size": 67965485,
-      "minOSVersion": "14.0",
-      "localizedDescription": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/81923.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/81923-nuvio-0.6.5-full-release.ipa",
+      "developerName": "NuvioMedia",
+      "subtitle": "A free, open-source media app for your phone, your desktop, and the TV you already own.",
+      "localizedDescription": "A free, open-source media app for your phone, your desktop, and the TV you already own.\n\nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.",
+      "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+      "tintColor": "#BF9FD8",
+      "category": "entertainment",
       "versions": [
         {
           "version": "0.6.5",
-          "date": "2026-10-27",
-          "localizedDescription": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
-          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/81923-nuvio-0.6.5-full-release.ipa",
+          "buildVersion": "148",
+          "date": "2026-10-27T02:04:03Z",
+          "localizedDescription": "- [feat(i18n): translate subtitle render scale and hero ratings settings (#2402)](https://github.com/NuvioMedia/NuvioMobile/pull/2402) @jhojhocraazy  \r\n- 2c69902b fix(servers): keep title lookups working between episodes @tapframe  \r\n- [Updated Bulgarian translations - fixes, party file, new strings (#2397)](https://github.com/NuvioMedia/NuvioMobile/pull/2397) @viiktr  \r\n- 88c9b4ce feat(player): split video and controls at the duo fold @tapframe  \r\n- [fix(debrid): recognize language words in release names (#2364)](https://github.com/NuvioMedia/NuvioMobile/pull/2364) @kernexshadow  \r\n- [i18n(vi): update latest Vietnamese strings (#2370)](https://github.com/NuvioMedia/NuvioMobile/pull/2370) @blueocean2308  \r\n- c85dc721 feat(player): remove source name from paused player @tapframe  \r\n- [l10n: complete missing Italian translations (#2371)](https://github.com/NuvioMedia/NuvioMobile/pull/2371) @WhiteGiso  \r\n- [Player chapters: progress bar marks, chapter name and a chapters panel (#2174)](https://github.com/NuvioMedia/NuvioMobile/pull/2174) @kernexshadow  \r\n",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
           "size": 67965485,
-          "minOSVersion": "14.0"
+          "sha256": "599eff1327f1018e65f0f577f1d3e6070833dc3d291589105dfa173ef7b41d7e",
+          "minOSVersion": "16.1"
         }
       ],
-      "subtitle": "scholars lounge | Nuvio Version: 0.6.5 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Full A free, open-source media app for your phone, your des",
-      "tintColor": "#C6A0DE",
-      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/81923.png",
-      "bundleID": "com.nuvio.media",
-      "fullDate": "20261027040029",
-      "type": 1
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
+        }
+      },
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.5-beta/nuvio-0.6.5-full-release.ipa",
+      "version": "0.6.5",
+      "size": 67965485,
+      "minOSVersion": "16.1"
     },
     {
       "name": "Reddit",
@@ -180,28 +184,28 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.37",
-      "versionDate": "2026-10-24",
-      "size": 269743361,
+      "version": "12.38",
+      "versionDate": "2026-10-28",
+      "size": 272940271,
       "minOSVersion": "14.0",
-      "localizedDescription": "@ipavault | Builds of X/Twitter 12.37  ▪Updated to X 12.37 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1011.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1011-X%2012.37%20NFB+TWI%207.2.0%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "@ipavault | Builds of X/Twitter 12.38  ▪Updated to X 12.38 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1073.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1073-X%2012.38%20NFB%207.2.0%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.37",
-          "date": "2026-10-24",
-          "localizedDescription": "@ipavault | Builds of X/Twitter 12.37  ▪Updated to X 12.37 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1011-X%2012.37%20NFB+TWI%207.2.0%20%5B@ipavault%5D.ipa",
-          "size": 269743361,
+          "version": "12.38",
+          "date": "2026-10-28",
+          "localizedDescription": "@ipavault | Builds of X/Twitter 12.38  ▪Updated to X 12.38 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1073-X%2012.38%20NFB%207.2.0%20%5B@ipavault%5D.ipa",
+          "size": 272940271,
           "minOSVersion": "14.0"
         }
       ],
-      "subtitle": "@ipavault | Builds of X/Twitter 12.37  ▪Updated to X 12.37 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
+      "subtitle": "@ipavault | Builds of X/Twitter 12.38  ▪Updated to X 12.38 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.2.0 ▪X NFB+TWI ▪Twitter Branded NFB 7.2.0 ▪",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1011.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1073.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261024030027",
+      "fullDate": "20261028040034",
       "type": 1
     },
     {
@@ -266,20 +270,20 @@
       "name": "Husk",
       "bundleIdentifier": "com.husk.app",
       "developerName": "Leviidev",
-      "version": "3.0",
-      "versionDate": "2026-10-19",
-      "size": 140126095,
+      "version": "3.1",
+      "versionDate": "2026-10-28",
+      "size": 140540013,
       "minOSVersion": "14.0",
       "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
       "versions": [
         {
-          "version": "3.0",
-          "date": "2026-10-19",
+          "version": "3.1",
+          "date": "2026-10-28",
           "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Ne",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.0/Husk.ipa",
-          "size": 140126095,
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.1/Husk.ipa",
+          "size": 140540013,
           "minOSVersion": "14.0"
         }
       ],
@@ -287,7 +291,7 @@
       "tintColor": "#9895D3",
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
       "bundleID": "com.husk.app",
-      "fullDate": "20261019030040",
+      "fullDate": "20261028040034",
       "type": 1
     },
     {
