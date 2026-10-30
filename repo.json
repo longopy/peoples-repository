@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-10-30 15:15 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-10-30 15:21 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -323,28 +323,32 @@
       "type": 1
     },
     {
-      "name": "Balatro+",
-      "developerName": "Playstack Ltd",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Balatro.webp",
-      "website": "https://ipaomtk.com/balatro-arcade/",
-      "localizedDescription": "Balatro+. Listed by IPAOMTK.\nOriginal app page: https://ipaomtk.com/balatro-arcade/",
-      "minOSVersion": "13.5",
-      "downloadURL": "https://file.ipaomtk.com/balatro-arcade/Balatro_Arcade_ipaomtk.com.ipa",
-      "versionDate": "2026-08-13",
-      "version": "1.4.9",
-      "size": 141956219,
+      "name": "Balatro_1.0.1o",
+      "bundleIdentifier": "org.htf65jud.balatro",
+      "developerName": "Balatro_1.0.1o x CyPwn",
+      "version": "1.0.1o",
+      "versionDate": "2026-06-10",
+      "size": 61708697,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Balatro_1.0.1o\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Balatro_1.0.1o.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Balatro_1.0.1o.ipa",
       "versions": [
         {
-          "downloadURL": "https://file.ipaomtk.com/balatro-arcade/Balatro_Arcade_ipaomtk.com.ipa",
-          "date": "2026-08-13",
-          "size": 141956219,
-          "minOSVersion": "13.5",
-          "localizedDescription": "Upstream variant: Arcade",
-          "version": "1.4.9"
+          "version": "1.0.1o",
+          "date": "2026-06-10",
+          "localizedDescription": "Balatro_1.0.1o",
+          "downloadURL": "https://ipa.cypwn.xyz/ipas/Balatro_1.0.1o.ipa",
+          "size": 61708697,
+          "minOSVersion": "14.0"
         }
       ],
-      "bundleIdentifier": "com.balatro.Balatro",
-      "tintColor": "#CB73CE"
+      "subtitle": "Balatro_1.0.1o",
+      "tintColor": "#789CB0",
+      "icon": "https://ipa.cypwn.xyz/serve/icons/Balatro_1.0.1o.png",
+      "bundleID": "org.htf65jud.balatro",
+      "fullDate": "20260610050603",
+      "type": 1
     }
   ]
 }
