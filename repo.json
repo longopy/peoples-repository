@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-10-30 14:06 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-10-30 14:45 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -343,6 +343,7 @@
           "version": "1.4.9"
         }
       ],
+      "bundleIdentifier": "com.balatro.Balatro",
       "tintColor": "#CB73CE"
     }
   ]
