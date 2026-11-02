@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-01 14:16 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-02 17:03 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -68,20 +68,20 @@
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
       "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
       "developerName": "YouTube",
-      "version": "9.43.2",
-      "versionDate": "2026-10-26",
-      "size": 111956751,
+      "version": "9.44.2",
+      "versionDate": "2026-11-02",
+      "size": 112601953,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.43.2%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.44.2%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "9.43.2",
-          "date": "2026-10-26",
+          "version": "9.44.2",
+          "date": "2026-11-02",
           "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.43.2%20%5B@ipavault%5D.ipa",
-          "size": 111956751,
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.44.2%20%5B@ipavault%5D.ipa",
+          "size": 112601953,
           "minOSVersion": "14.0"
         }
       ],
@@ -89,7 +89,7 @@
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
-      "fullDate": "20261026040027",
+      "fullDate": "20261102040053",
       "type": 1
     },
     {
@@ -270,20 +270,20 @@
       "name": "Husk",
       "bundleIdentifier": "com.husk.app",
       "developerName": "Leviidev",
-      "version": "3.2.1",
-      "versionDate": "2026-11-01",
-      "size": 140697147,
+      "version": "3.3",
+      "versionDate": "2026-11-02",
+      "size": 142239082,
       "minOSVersion": "14.0",
       "localizedDescription": "@ipavault | Run Android apps and games on your iPhone  An open source app that lets you run Android apps and games on iOS using an ARM64 translation l\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
       "versions": [
         {
-          "version": "3.2.1",
-          "date": "2026-11-01",
+          "version": "3.3",
+          "date": "2026-11-02",
           "localizedDescription": "@ipavault | Run Android apps and games on your iPhone  An open source app that lets you run Android apps and games on iOS using an ARM64 translation l",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.2.1/Husk.ipa",
-          "size": 140697147,
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
+          "size": 142239082,
           "minOSVersion": "14.0"
         }
       ],
@@ -291,7 +291,7 @@
       "tintColor": "#9895D3",
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
       "bundleID": "com.husk.app",
-      "fullDate": "20261101040045",
+      "fullDate": "20261102040053",
       "type": 1
     },
     {
