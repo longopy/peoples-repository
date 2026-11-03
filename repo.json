@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-02 17:03 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-03 15:06 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -37,32 +37,26 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 Beta 2 - mrdrvt99)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0.beta.2",
+      "name": "YTPlus/YTLite Cracked (6.0) - v21.44.4 (IPAVault) + Bonus Tweaks",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.21.44.4.ipavault.bonus.tweaks",
       "developerName": "YouTube",
-      "version": "21.43.5",
-      "versionDate": "2026-10-29",
-      "size": 150260037,
-      "minOSVersion": "14.0",
-      "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This includes the following tweaks: YouPiP, YTUHD, YTABConfig\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.43.5_6.0b2.ipa",
+      "subtitle": "Cracked by Spy_G. Bonus Tweaks added by IPAVault.",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Bonus Tweaks include: YTABConfig, YTweaks, YouPIP, VolumeBoostYT,  DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouSpeed, YouQuality, YouChooseQuality, YTUHD and Open in YouTube Safari Extension.",
+      "tintColor": "#D68A8A",
       "versions": [
         {
-          "version": "21.43.5",
-          "date": "2026-10-29",
-          "localizedDescription": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This includes the following tweaks: YouPiP, YTUHD, YTABConfig",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.43.5_6.0b2.ipa",
-          "size": 150260037,
-          "minOSVersion": "14.0"
+          "version": "21.44.4",
+          "date": "2026-11-02T00:00:00Z",
+          "localizedDescription": "This uses 21.44.4 version of YouTube.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.44.4%20YTPlus%206.0%20%5B%40ipavault%5D.ipa",
+          "size": 162147862
         }
       ],
-      "subtitle": "Cracked by itzzace0 (Epic0001). THIS IS A BETA BUILD OF YTPLUS SO EXPECT BUGS/GLITCHES!! This includes the following tweaks: YouPiP, YTUHD, YTABConfig",
-      "tintColor": "#D68A8A",
-      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0.beta.2",
-      "fullDate": "20261029040027",
-      "type": 1
+      "appPermissions": {},
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.44.4%20YTPlus%206.0%20%5B%40ipavault%5D.ipa",
+      "version": "21.44.4",
+      "size": 162147862
     },
     {
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
