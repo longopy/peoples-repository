@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-04 15:24 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-04 16:11 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -320,6 +320,34 @@
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8709.png",
       "bundleID": "com.lyftaios",
       "fullDate": "20261031040045",
+      "type": 1
+    },
+    {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "AppTesters IPA Repo",
+      "version": "26.40.0",
+      "versionDate": "2026-10-07",
+      "size": 213437434,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/MyFitnessPal_26.40.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "versions": [
+        {
+          "version": "26.40.0",
+          "date": "2026-10-07",
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/MyFitnessPal_26.40.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 213437434,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "subtitle": "Injected with Subscription Unlocked",
+      "tintColor": "#84A6D4",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "bundleID": "com.myfitnesspal.mfp",
+      "fullDate": "20261007030027",
       "type": 1
     },
     {
