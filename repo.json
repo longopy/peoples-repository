@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-04 16:27 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-05 15:27 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -15,21 +15,21 @@
       "version": "9.1.90",
       "versionDate": "2026-10-27",
       "size": 128966892,
-      "minOSVersion": "14.0",
-      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "16.1",
+      "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "9.1.90",
           "date": "2026-10-27",
-          "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.",
+          "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.",
           "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
           "size": 128966892,
-          "minOSVersion": "14.0"
+          "minOSVersion": "16.1"
         }
       ],
-      "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.3.",
+      "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
       "tintColor": "#7FD29D",
       "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "bundleID": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
@@ -43,21 +43,21 @@
       "version": "21.44.4",
       "versionDate": "2026-11-04",
       "size": 151399565,
-      "minOSVersion": "14.0",
-      "localizedDescription": "Cracked by Spy_G. This includes the following tweaks: YouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-Y\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-Y\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.44.4_6.0.ipa",
       "versions": [
         {
           "version": "21.44.4",
           "date": "2026-11-04",
-          "localizedDescription": "Cracked by Spy_G. This includes the following tweaks: YouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-Y",
+          "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-Y",
           "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.44.4_6.0.ipa",
           "size": 151399565,
-          "minOSVersion": "14.0"
+          "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Cracked by Spy_G. This includes the following tweaks: YouPiP, YTUHD, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, Return-Y",
+      "subtitle": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare +12",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
@@ -71,21 +71,21 @@
       "version": "9.44.2",
       "versionDate": "2026-11-02",
       "size": 112601953,
-      "minOSVersion": "14.0",
-      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes, YTMABConfig, YouMusicPiP\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.44.2%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.44.2",
           "date": "2026-11-02",
-          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+          "localizedDescription": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes, YTMABConfig, YouMusicPiP\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
           "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.44.2%20%5B@ipavault%5D.ipa",
           "size": 112601953,
-          "minOSVersion": "14.0"
+          "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+      "subtitle": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes +2",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
@@ -131,21 +131,21 @@
       "version": "2026.44.0",
       "versionDate": "2026-11-04",
       "size": 151096525,
-      "minOSVersion": "14.0",
-      "localizedDescription": "scholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "16.0",
+      "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/83331.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83331-RedditDeluxes_2026.44.0_Jacks_Apps.ipa",
       "versions": [
         {
           "version": "2026.44.0",
           "date": "2026-11-04",
-          "localizedDescription": "scholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
+          "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
           "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83331-RedditDeluxes_2026.44.0_Jacks_Apps.ipa",
           "size": 151096525,
-          "minOSVersion": "14.0"
+          "minOSVersion": "16.0"
         }
       ],
-      "subtitle": "scholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
+      "subtitle": "Tweaks: MoesReddit",
       "tintColor": "#D69F8A",
       "icon": "https://fastsign.dev/tg-icon/scholars-lounge/83331.png",
       "bundleID": "com.reddit.Reddit",
@@ -153,27 +153,27 @@
       "type": 1
     },
     {
-      "name": "Instagram",
+      "name": "Instagram (Regram 6.5 · no plugins)",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "@ipavault",
       "version": "453.0.0",
       "versionDate": "2026-10-27",
       "size": 292429333,
-      "minOSVersion": "14.0",
-      "localizedDescription": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "16.3",
+      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1059.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1059-Regram%206.5%20%28IG%20453.0.0%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "453.0.0",
           "date": "2026-10-27",
-          "localizedDescription": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a",
+          "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a",
           "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1059-Regram%206.5%20%28IG%20453.0.0%29%20No%20Plugins.ipa",
           "size": 292429333,
-          "minOSVersion": "14.0"
+          "minOSVersion": "16.3"
         }
       ],
-      "subtitle": "@ipavault | Builds of Instagram 453.0.0  ▪Updated to Instagram 453.0.0 ▪Updated to Regram 6.5 cracked ⚠️ Use Regram 6.5 build if you use Feather and a",
+      "subtitle": "Tweaks: Regram",
       "tintColor": "#D382BD",
       "icon": "https://fastsign.dev/tg-icon/ipavault/1059.png",
       "bundleID": "com.burbn.instagram",
@@ -181,55 +181,55 @@
       "type": 1
     },
     {
-      "name": "X",
+      "name": "X (NFB+TWI 7.3.1)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.40",
-      "versionDate": "2026-11-04",
-      "size": 273682004,
-      "minOSVersion": "14.0",
-      "localizedDescription": "@ipavault | Builds of X/Twitter 12.40  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NFB+\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1159.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1159-X%2012.40%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+      "version": "12.40.1",
+      "versionDate": "2026-11-05",
+      "size": 274341579,
+      "minOSVersion": "15.0",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.40.1  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NF\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1188.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1188-X%2012.40.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.40",
-          "date": "2026-11-04",
-          "localizedDescription": "@ipavault | Builds of X/Twitter 12.40  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NFB+",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1159-X%2012.40%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 273682004,
-          "minOSVersion": "14.0"
+          "version": "12.40.1",
+          "date": "2026-11-05",
+          "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.40.1  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NF",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1188-X%2012.40.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
+          "size": 274341579,
+          "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "@ipavault | Builds of X/Twitter 12.40  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NFB+",
+      "subtitle": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1159.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1188.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261104040047",
+      "fullDate": "20261105040042",
       "type": 1
     },
     {
-      "name": "TikTok",
+      "name": "TikTok (Infinitok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "@ipavault",
       "version": "47.6.0",
       "versionDate": "2026-11-04",
       "size": 514506531,
-      "minOSVersion": "14.0",
-      "localizedDescription": "@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)  ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings:  1.) Open TikTok\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "15.0",
+      "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)  ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings:  1.) Open TikTok\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1163.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1163-TikTok%2047.6.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "47.6.0",
           "date": "2026-11-04",
-          "localizedDescription": "@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)  ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings:  1.) Open TikTok",
+          "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)  ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings:  1.) Open TikTok",
           "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1163-TikTok%2047.6.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
           "size": 514506531,
-          "minOSVersion": "14.0"
+          "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)  ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings:  1.) Open TikTok",
+      "subtitle": "Tweaks: Infinitok",
       "tintColor": "#BA949C",
       "icon": "https://fastsign.dev/tg-icon/ipavault/1163.png",
       "bundleID": "com.zhiliaoapp.musically",
@@ -270,28 +270,28 @@
       "name": "Husk",
       "bundleIdentifier": "com.husk.app",
       "developerName": "Leviidev",
-      "version": "3.3",
-      "versionDate": "2026-11-02",
-      "size": 142239082,
-      "minOSVersion": "14.0",
+      "version": "3.4",
+      "versionDate": "2026-11-05",
+      "size": 142303569,
+      "minOSVersion": "15.5",
       "localizedDescription": "@ipavault | Run Android apps and games on your iPhone  An open source app that lets you run Android apps and games on iOS using an ARM64 translation l\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
       "versions": [
         {
-          "version": "3.3",
-          "date": "2026-11-02",
+          "version": "3.4",
+          "date": "2026-11-05",
           "localizedDescription": "@ipavault | Run Android apps and games on your iPhone  An open source app that lets you run Android apps and games on iOS using an ARM64 translation l",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.3/Husk.ipa",
-          "size": 142239082,
-          "minOSVersion": "14.0"
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+          "size": 142303569,
+          "minOSVersion": "15.5"
         }
       ],
       "subtitle": "@ipavault | Run Android apps and games on your iPhone  An open source app that lets you run Android apps and games on iOS using an ARM64 translation l",
       "tintColor": "#9895D3",
       "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
       "bundleID": "com.husk.app",
-      "fullDate": "20261102040053",
+      "fullDate": "20261105105112",
       "type": 1
     },
     {
@@ -301,21 +301,21 @@
       "version": "1.165",
       "versionDate": "2026-10-31",
       "size": 56357672,
-      "minOSVersion": "14.0",
-      "localizedDescription": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.165  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "minOSVersion": "16.0",
+      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.165  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8709.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8709-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.165-riftysipas.ipa",
       "versions": [
         {
           "version": "1.165",
           "date": "2026-10-31",
-          "localizedDescription": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.165  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+          "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.165  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
           "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8709-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.165-riftysipas.ipa",
           "size": 56357672,
-          "minOSVersion": "14.0"
+          "minOSVersion": "16.0"
         }
       ],
-      "subtitle": "@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log  Tweak: Premium Unlocked  Version: 1.165  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+      "subtitle": "Tweaks: riftyslyfta",
       "tintColor": "#9CBEDC",
       "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8709.png",
       "bundleID": "com.lyftaios",
@@ -329,7 +329,7 @@
       "version": "26.44.0",
       "versionDate": "2026-11-04",
       "size": 217646939,
-      "minOSVersion": "14.0",
+      "minOSVersion": "18.0",
       "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter  • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.44.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscript\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
@@ -340,10 +340,10 @@
           "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter  • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.44.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscript",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
           "size": 217646939,
-          "minOSVersion": "14.0"
+          "minOSVersion": "18.0"
         }
       ],
-      "subtitle": "@blatants | MyFitnessPal: Calorie Counter  • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.44.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscript",
+      "subtitle": "Subscription unlocked. Some features are server-sided and cannot be accessed",
       "tintColor": "#84A6D4",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "bundleID": "com.myfitnesspal.mfp",
@@ -356,8 +356,8 @@
       "developerName": "Balatro_1.0.1o x CyPwn",
       "version": "1.0.1o",
       "versionDate": "2026-06-10",
-      "size": 61708697,
-      "minOSVersion": "14.0",
+      "size": 61704079,
+      "minOSVersion": "7.0",
       "localizedDescription": "Balatro_1.0.1o\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Balatro_1.0.1o.png",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/Balatro_1.0.1o.ipa",
@@ -367,8 +367,8 @@
           "date": "2026-06-10",
           "localizedDescription": "Balatro_1.0.1o",
           "downloadURL": "https://ipa.cypwn.xyz/ipas/Balatro_1.0.1o.ipa",
-          "size": 61708697,
-          "minOSVersion": "14.0"
+          "size": 61704079,
+          "minOSVersion": "7.0"
         }
       ],
       "subtitle": "Balatro_1.0.1o",
