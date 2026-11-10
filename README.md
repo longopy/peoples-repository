@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/AltStore-LiveContainer-007AFF" alt="AltStore and LiveContainer">
   </p>
   <p>
-    <img alt="Last updated November 9, 2026 at 17:28 UTC" src="https://img.shields.io/badge/updated-2026--11--09%2017%3A28%20UTC-2ea44f">
+    <img alt="Last updated November 10, 2026 at 08:51 UTC" src="https://img.shields.io/badge/updated-2026--11--10%2008%3A51%20UTC-2ea44f">
   </p>
  </p>
  </div>

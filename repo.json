@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-09 17:27 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-10 08:51 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -37,53 +37,59 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked (6.0)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.latest",
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - mrdrvt99)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
       "developerName": "YouTube",
+      "version": "21.45.4",
+      "versionDate": "2026-11-10",
+      "size": 152222295,
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G.\nThis includes the following tweaks:\nYouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, Return-YouTube-Dislikes, DontEatMyContent, VolumeBoostYT, and Open In YouTube (Safari Extension).\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "subtitle": "Cracked by itzzace0 (Epic0001). This is updated by BallerMC to use the latest version of YouTube.",
-      "localizedDescription": "This is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G",
-      "tintColor": "#D68A8A",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.45.4_6.0.ipa",
       "versions": [
         {
           "version": "21.45.4",
-          "date": "2026-11-07T00:00:00Z",
-          "localizedDescription": "This uses 21.45.4 version of YouTube.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.44.4_YTPlus_v6.0_cracked%5Btg%40tubevault%5D.ipa",
-          "size": 158126450
-        }
-      ],
-      "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.44.4_YTPlus_v6.0_cracked%5Btg%40tubevault%5D.ipa",
-      "version": "21.45.4",
-      "size": 158126450
-    },
-    {
-      "name": "YTMusicUltimate+ (Patched - IPAVault)",
-      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
-      "developerName": "YouTube",
-      "version": "9.45.2",
-      "versionDate": "2026-11-09",
-      "size": 111403861,
-      "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes, YouMusicPiP, YTMABConfig\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.45.2%20%5B@ipavault%5D.ipa",
-      "versions": [
-        {
-          "version": "9.45.2",
-          "date": "2026-11-09",
-          "localizedDescription": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes, YouMusicPiP, YTMABConfig\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.45.2%20%5B@ipavault%5D.ipa",
-          "size": 111403861,
+          "date": "2026-11-10",
+          "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.45.4_6.0.ipa",
+          "size": 152222295,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: YTMusicUltimate, VolumeBoostYT, ReturnYouTubeMusicDislikes +2",
+      "subtitle": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare +12",
+      "tintColor": "#D68A8A",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
+      "fullDate": "20261110040027",
+      "type": 1
+    },
+    {
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
+      "developerName": "YouTube",
+      "version": "9.45.2",
+      "versionDate": "2026-11-10",
+      "size": 107079243,
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: YTMusicUltimate\n\nThis is a modded version of YouTube Music with just a modded version of YTMusicUltimate.\nYou can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.45.2.ipa",
+      "versions": [
+        {
+          "version": "9.45.2",
+          "date": "2026-11-10",
+          "localizedDescription": "Tweaks: YTMusicUltimate\n\nThis is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.45.2.ipa",
+          "size": 107079243,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "subtitle": "Tweaks: YTMusicUltimate",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
-      "fullDate": "20261109040048",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
+      "fullDate": "20261110040027",
       "type": 1
     },
     {
@@ -97,13 +103,13 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "0.6.10",
-          "buildVersion": "153",
-          "date": "2026-11-08T08:36:48Z",
-          "localizedDescription": "- c1dfd989 fix(player): start playback service as a normal service first (NUVIO-MOBILE-D9 NUVIO-MOBILE-9E NUVIO-MOBILE-9M NUVIO-MOBILE-PC) @tapframe  \r\n- 6ad2d9ba fix(player): cap buffer start times at the min buffer (NUVIO-MOBILE-1VH) @tapframe  \r\n- 81dc761e fix(player): guard caption setting reads (NUVIO-MOBILE-25M) @tapframe  \r\n- d534d14e fix(network): treat SSL setup errors as failed requests (NUVIO-MOBILE-254 NUVIO-MOBILE-3N) @tapframe  \r\n- 8172e682 fix(watched): copy unsynced keys before saving (NUVIO-MOBILE-260) @tapframe  \r\n- [i18n: add French translation for ratings strings (#2562)](https://github.com/NuvioMedia/NuvioMobile/pull/2562) @SK-Gits  \r\n- [i18n(el): sync the Greek locale with 0.6.9 (playback audio, downmix, ratings) (#2561)](https://github.com/NuvioMedia/NuvioMobile/pull/2561) @nosvasedis  \r\n- [i18n(he): translate party strings into Hebrew (#2557)](https://github.com/NuvioMedia/NuvioMobile/pull/2557) @haveAnIssue  \r\n- [i18n(he): translate servers strings into Hebrew (#2556)](https://github.com/NuvioMedia/NuvioMobile/pull/2556) @haveAnIssue  \r\n- [i18n(he): translate pip strings into Hebrew (#2555)](https://github.com/NuvioMedia/NuvioMobile/pull/2555) @haveAnIssue  \r\n- [i18n(he): translate autosync strings into Hebrew (#2553)](https://github.com/NuvioMedia/NuvioMobile/pull/2553) @haveAnIssue  \r\n- [i18n(he): translate mdblist strings into Hebrew (#2552)](https://github.com/NuvioMedia/NuvioMobile/pull/2552) @haveAnIssue  \r\n- [i18n(he): translate ratings strings into Hebrew (#2551)](https://github.com/NuvioMedia/NuvioMobile/pull/2551) @haveAnIssue  \r\n- [Update Japanese translation (#2559)](https://github.com/NuvioMedia/NuvioMobile/pull/2559) @Joe00011  \r\n- [i18n(vi): translate ratings strings into Vietnamese (#2550)](https://github.com/NuvioMedia/NuvioMobile/pull/2550) @blueocean2308  \r\n- 82ca7d11 fix(player): reset addon subtitles only when the source changes @tapframe  \r\n- [feat(autosync): shared engine, enable on iOS (#2535)](https://github.com/NuvioMedia/NuvioMobile/pull/2535) @skoruppa  \r\n- [fix(mdblist): remap anime episodes between addon and TMDB numbering (TV parity) (#2516)](https://github.com/NuvioMedia/NuvioMobile/pull/2516) @kernexshadow  \r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.10-beta/nuvio-0.6.10-full-release.ipa",
-          "size": 69752091,
-          "sha256": "a6fcd55733485bd24bd38669abaab65c2fc102d866d083d8a4bdf4797fa91935",
+          "version": "0.6.11",
+          "buildVersion": "154",
+          "date": "2026-11-10T01:28:12Z",
+          "localizedDescription": "- 9c2d0902 fix(mdblist): reuse progress and watched lists until a remap changes them @tapframe  \r\n- daa966d3 fix(auth): stay signed in when session refresh fails @tapframe  \r\n- [fix(player): center opening overlay backdrop on tall screens (#2585)](https://github.com/NuvioMedia/NuvioMobile/pull/2585) @yvngjoon  \r\n- f004557c fix(player): show mpv error details on the error screen @tapframe  \r\n- [fix(autosync): allow AutoSync without a preferred language, enable forced subs and AutoSync by default (#2578)](https://github.com/NuvioMedia/NuvioMobile/pull/2578) @skoruppa  \r\n- [feat(hero): smart horizontal framing for cropped backdrops (#2538)](https://github.com/NuvioMedia/NuvioMobile/pull/2538) @skoruppa  \r\n- [Add and update Bulgarian strings in strings.xml (#2576)](https://github.com/NuvioMedia/NuvioMobile/pull/2576) @viiktr  \r\n- [i18n: harmonize French wording with Nuvio TV (#2575)](https://github.com/NuvioMedia/NuvioMobile/pull/2575) @SK-Gits  \r\n- [fix(autosync): search further when a restored subtitle does not fit (#2537)](https://github.com/NuvioMedia/NuvioMobile/pull/2537) @skoruppa  \r\n",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.11-beta/nuvio-0.6.11-full-release.ipa",
+          "size": 69784598,
+          "sha256": "0e59c501c8d7161a3123d9527a6f2c8c520195b46ef90881827665b95b769a24",
           "minOSVersion": "16.1"
         }
       ],
@@ -113,37 +119,37 @@
           "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
         }
       },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.10-beta/nuvio-0.6.10-full-release.ipa",
-      "version": "0.6.10",
-      "size": 69752091,
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.11-beta/nuvio-0.6.11-full-release.ipa",
+      "version": "0.6.11",
+      "size": 69784598,
       "minOSVersion": "16.1"
     },
     {
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "scholars lounge",
-      "version": "2026.44.0",
-      "versionDate": "2026-11-04",
-      "size": 151096525,
+      "version": "2026.45.0",
+      "versionDate": "2026-11-10",
+      "size": 145203937,
       "minOSVersion": "16.0",
-      "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.44.0\n\n- Reddit 2026.44.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/83331.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83331-RedditDeluxes_2026.44.0_Jacks_Apps.ipa",
+      "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.45.0\n\n- Reddit 2026.45.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84961.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84961-RedditDeluxes_2026.45.0_Jacks_Apps.ipa",
       "versions": [
         {
-          "version": "2026.44.0",
-          "date": "2026-11-04",
-          "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.44.0 - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83331-RedditDeluxes_2026.44.0_Jacks_Apps.ipa",
-          "size": 151096525,
+          "version": "2026.45.0",
+          "date": "2026-11-10",
+          "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.45.0 - Reddit 2026.45.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84961-RedditDeluxes_2026.45.0_Jacks_Apps.ipa",
+          "size": 145203937,
           "minOSVersion": "16.0"
         }
       ],
       "subtitle": "Tweaks: MoesReddit",
       "tintColor": "#D69F8A",
-      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/83331.png",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/84961.png",
       "bundleID": "com.reddit.Reddit",
-      "fullDate": "20261104040047",
+      "fullDate": "20261110040027",
       "type": 1
     },
     {
@@ -175,31 +181,31 @@
       "type": 1
     },
     {
-      "name": "X (NFB 7.3.1)",
+      "name": "X (NFB+TWI 7.3.1)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.41",
-      "versionDate": "2026-11-07",
-      "size": 278174711,
+      "version": "12.42.1",
+      "versionDate": "2026-11-10",
+      "size": 282103271,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.41\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1235?comment=13205\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1235.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1235-X%2012.41%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.42.1\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1287?comment=13896\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1288.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1288-X%2012.42.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.41",
-          "date": "2026-11-07",
-          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.41 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1235-X%2012.41%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 278174711,
+          "version": "12.42.1",
+          "date": "2026-11-10",
+          "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.42.1 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1288-X%2012.42.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
+          "size": 282103271,
           "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "Tweaks: bhFLEX, BHTwitter",
+      "subtitle": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1235.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1288.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261107040050",
+      "fullDate": "20261110040027",
       "type": 1
     },
     {
