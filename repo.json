@@ -3,37 +3,37 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-10 15:35 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-11 14:40 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
   "apps": [
     {
-      "name": "Vitrine v1.0.0-b16 + Pixie v1.4 (Not Patched) IPAVault",
-      "bundleIdentifier": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
-      "developerName": "Spotify",
+      "name": "Spotify (Taurus 0.60.6)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "@ipavault",
       "version": "9.1.90",
-      "versionDate": "2026-11-09",
-      "size": 128966892,
+      "versionDate": "2026-11-11",
+      "size": 138906230,
       "minOSVersion": "16.1",
-      "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.4.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
+      "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6)\n\n▪Taurus is a GPL-3.0 fork of Chroma.pw\n▪Ad blocking, Offline Listening (Pixie), and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Taurus 0.60.6 (Patched)\n▪Taurus 0.60.6 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Taurus settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Taurus Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Taurus settings\n3.) Tap on Downloads\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nMore Info\n\nBuild by: @ipavault\n\nTaurus 0.60.6 by samj-exe (Forked from Chroma.pw) by skopevoj\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1302.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.1.90",
-          "date": "2026-11-09",
-          "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.4.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
-          "size": 128966892,
+          "date": "2026-11-11",
+          "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6) ▪Taurus is a GPL-3.0 fork of Chroma.pw ▪Ad blocking, Offline Listening (Pixie), and Spotify…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
+          "size": 138906230,
           "minOSVersion": "16.1"
         }
       ],
-      "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
-      "tintColor": "#7FD29D",
-      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
-      "bundleID": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
-      "fullDate": "20261109040048",
+      "subtitle": "Tweaks: SpotifyAudioProbe, spotifyglass",
+      "tintColor": "#7ED29D",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1302.png",
+      "bundleID": "com.spotify.client",
+      "fullDate": "20261111040052",
       "type": 1
     },
     {
@@ -153,31 +153,31 @@
       "type": 1
     },
     {
-      "name": "Instagram (Regram 7.0 · no plugins)",
+      "name": "Instagram (Regram 7.0.1 · no plugins)",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "@ipavault",
       "version": "454.1.0",
-      "versionDate": "2026-11-07",
-      "size": 315107957,
+      "versionDate": "2026-11-11",
+      "size": 314793648,
       "minOSVersion": "16.3",
-      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0\n\n▪Updated to Regram 7.0 cracked\n⚠️ Use Regram 7.0 build if you use Feather and a Paid Certificate \n⚠️ Use Regram 7.0 No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1226.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1226-Regram%207.0%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
+      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0\n\n▪Updated to Regram 7.0.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1310.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1310-Regram%207.0.1%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "454.1.0",
-          "date": "2026-11-07",
-          "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0 ▪Updated to Regram 7.0 cracked ⚠️ Use Regram 7.0 build if you use Feather and a Paid Certificate ⚠️ Use…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1226-Regram%207.0%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
-          "size": 315107957,
+          "date": "2026-11-11",
+          "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0 ▪Updated to Regram 7.0.1 cracked ⚠️ Use Regram build if you use Feather and a Paid Certificate ⚠️ Use Regram…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1310-Regram%207.0.1%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
+          "size": 314793648,
           "minOSVersion": "16.3"
         }
       ],
       "subtitle": "Tweaks: Regram",
       "tintColor": "#D382BD",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1226.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1310.png",
       "bundleID": "com.burbn.instagram",
-      "fullDate": "20261107040050",
+      "fullDate": "20261111040052",
       "type": 1
     },
     {
@@ -212,28 +212,28 @@
       "name": "TikTok (Infinitok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "@ipavault",
-      "version": "47.6.0",
-      "versionDate": "2026-11-04",
-      "size": 514506531,
+      "version": "47.7.0",
+      "versionDate": "2026-11-11",
+      "size": 521729121,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2)\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok test 0.0.2 by Mod4\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1163.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1163-TikTok%2047.6.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.7.0 (Infinitok test v0.0.2)\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok test 0.0.2 by Mod4\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1305.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1305-TikTok%2047.7.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "47.6.0",
-          "date": "2026-11-04",
-          "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.6.0 (Infinitok test v0.0.2) ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1163-TikTok%2047.6.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
-          "size": 514506531,
+          "version": "47.7.0",
+          "date": "2026-11-11",
+          "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.7.0 (Infinitok test v0.0.2) ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1305-TikTok%2047.7.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
+          "size": 521729121,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: Infinitok",
       "tintColor": "#BA949C",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1163.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1305.png",
       "bundleID": "com.zhiliaoapp.musically",
-      "fullDate": "20261104040047",
+      "fullDate": "20261111040052",
       "type": 1
     },
     {
@@ -326,20 +326,20 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "AppTesters IPA Repo",
-      "version": "26.44.0",
-      "versionDate": "2026-11-04",
-      "size": 217646939,
+      "version": "26.45.0",
+      "versionDate": "2026-11-11",
+      "size": 217742068,
       "minOSVersion": "18.0",
-      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.44.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.45.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
         {
-          "version": "26.44.0",
-          "date": "2026-11-04",
-          "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.44.0 • Minimum iOS: 18.0 • Patched • Modifier…",
-          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/MyFitnessPal_26.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-          "size": 217646939,
+          "version": "26.45.0",
+          "date": "2026-11-11",
+          "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.45.0 • Minimum iOS: 18.0 • Patched • Modifier…",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 217742068,
           "minOSVersion": "18.0"
         }
       ],
@@ -347,7 +347,7 @@
       "tintColor": "#84A6D4",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "bundleID": "com.myfitnesspal.mfp",
-      "fullDate": "20261104040047",
+      "fullDate": "20261111040052",
       "type": 1
     },
     {
@@ -383,19 +383,19 @@
       "bundleIdentifier": "nl.madebypatrick.apps2samsung",
       "developerName": "MadeByPatrick",
       "subtitle": "Install Jellyfin and other apps on your Samsung Tizen TV from your phone.",
-      "localizedDescription": "Apps2Samsung installs Jellyfin and other web and community apps onto your Samsung Tizen TV — no PC, no Tizen Studio, and no manual sideloading.\n\nThis is the mobile (phone) installer head of Apps2Samsung. Put your TV into Developer Mode, point the app at it over your local network, sign in once with a free Samsung account to provision a signing certificate, and install.\n\nFeatures:\n\n* Finds Samsung Tizen TVs on your network, or connect directly by IP.\n* Installs Jellyfin (multiple build variants) and a catalog of community apps.\n* Give any app a custom launcher icon and a custom title.\n* Optional Jellyfin server pre-configuration: server URL, auto-login, and custom CSS.\n* Uses a free Samsung account certificate — no paid developer account required.\n\nRequirements:\n\n* A Samsung Tizen TV in Developer Mode, on the same local network as your phone.\n\nDesktop versions for Windows, macOS and Linux are also available. Apps2Samsung is free and open source (MIT).",
+      "localizedDescription": "Apps2Samsung installs Jellyfin and other web and community apps onto your Samsung Tizen TV — no PC, no Tizen Studio, and no manual sideloading.\n\nThis is the mobile (phone) installer head of Apps2Samsung. Put your TV into Developer Mode, point the app at it over your local network, sign in once with a free Samsung account to provision a signing certificate, and install.\n\nFeatures:\n\n* Finds Samsung Tizen TVs on your network, or connect directly by IP.\n* Installs Jellyfin (multiple build variants) and a catalog of community apps.\n* Give any app a custom launcher icon and a custom title.\n* Optional Jellyfin server pre-configuration: server URL, auto-login, and custom CSS.\n* Uses a free Samsung account certificate — no paid developer account required.\n\nRequirements:\n\n* A Samsung Tizen TV in Developer Mode, on the same local network as your phone.\n\nDesktop versions for Windows, macOS and Linux are also available. Apps2Samsung is free and open source (GPL-3.0).",
       "iconURL": "https://apps2samsung.com/sidestore/icon.png",
       "tintColor": "#92C3D3",
       "category": "utilities",
       "screenshots": [],
       "versions": [
         {
-          "version": "3.2.1",
-          "buildVersion": "11570",
-          "date": "2026-11-10T09:47:43Z",
-          "localizedDescription": "## 📦 v3.2.1-beta: 2026-11-10\n\n\n### 🚀 New features\n- feat(catalog): categories, order, names and tile colours from the community catalog (#1054) (#1056)\n### 🐛 Bug fixes\n- fix(update): offer the stable release to a beta of the same version (#1055)\n### 🧰 Maintenance & CI\n- chore: version 3.2.1 (#1057)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.2.0-beta...v3.2.1-beta",
-          "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.2.1-beta/Apps2Samsung-v3.2.1-beta-ios-unsigned.ipa",
-          "size": 43891981,
+          "version": "3.3.1",
+          "buildVersion": "11577",
+          "date": "2026-11-11T13:12:26Z",
+          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-11\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+          "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
+          "size": 43972124,
           "minOSVersion": "15.0"
         }
       ],
@@ -405,10 +405,10 @@
           "NSLocalNetworkUsageDescription": "Apps2Samsung looks for Samsung TVs on your Wi-Fi network and talks to the TV you pick to install apps on it."
         }
       },
-      "version": "3.2.1",
-      "versionDescription": "## 📦 v3.2.1-beta: 2026-11-10\n\n\n### 🚀 New features\n- feat(catalog): categories, order, names and tile colours from the community catalog (#1054) (#1056)\n### 🐛 Bug fixes\n- fix(update): offer the stable release to a beta of the same version (#1055)\n### 🧰 Maintenance & CI\n- chore: version 3.2.1 (#1057)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.2.0-beta...v3.2.1-beta",
-      "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.2.1-beta/Apps2Samsung-v3.2.1-beta-ios-unsigned.ipa",
-      "size": 43891981,
+      "version": "3.3.1",
+      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-11\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+      "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
+      "size": 43972124,
       "minOSVersion": "15.0"
     }
   ]
