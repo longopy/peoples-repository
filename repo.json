@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-11 15:10 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-12 15:58 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -103,13 +103,13 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "0.6.11",
-          "buildVersion": "154",
-          "date": "2026-11-10T01:28:12Z",
-          "localizedDescription": "- 9c2d0902 fix(mdblist): reuse progress and watched lists until a remap changes them @tapframe  \r\n- daa966d3 fix(auth): stay signed in when session refresh fails @tapframe  \r\n- [fix(player): center opening overlay backdrop on tall screens (#2585)](https://github.com/NuvioMedia/NuvioMobile/pull/2585) @yvngjoon  \r\n- f004557c fix(player): show mpv error details on the error screen @tapframe  \r\n- [fix(autosync): allow AutoSync without a preferred language, enable forced subs and AutoSync by default (#2578)](https://github.com/NuvioMedia/NuvioMobile/pull/2578) @skoruppa  \r\n- [feat(hero): smart horizontal framing for cropped backdrops (#2538)](https://github.com/NuvioMedia/NuvioMobile/pull/2538) @skoruppa  \r\n- [Add and update Bulgarian strings in strings.xml (#2576)](https://github.com/NuvioMedia/NuvioMobile/pull/2576) @viiktr  \r\n- [i18n: harmonize French wording with Nuvio TV (#2575)](https://github.com/NuvioMedia/NuvioMobile/pull/2575) @SK-Gits  \r\n- [fix(autosync): search further when a restored subtitle does not fit (#2537)](https://github.com/NuvioMedia/NuvioMobile/pull/2537) @skoruppa  \r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.11-beta/nuvio-0.6.11-full-release.ipa",
-          "size": 69784598,
-          "sha256": "0e59c501c8d7161a3123d9527a6f2c8c520195b46ef90881827665b95b769a24",
+          "version": "0.6.12",
+          "buildVersion": "155",
+          "date": "2026-11-12T00:37:11Z",
+          "localizedDescription": "- [feat(player): chapters setting for every engine, chapters on iOS and a chapter title toggle (#2609)](https://github.com/NuvioMedia/NuvioMobile/pull/2609) @skoruppa  \r\n- [fix(collections): respect \"Show catalog type\" in folders (#2608)](https://github.com/NuvioMedia/NuvioMobile/pull/2608) @skoruppa  \r\n- [fix(player): show the real cause of playback errors, like NuvioTV (#2607)](https://github.com/NuvioMedia/NuvioMobile/pull/2607) @skoruppa  \r\n- [fix(player): use the audio clock when mpv video time drops to 0 (#2605)](https://github.com/NuvioMedia/NuvioMobile/pull/2605) @skoruppa  \r\n- [fix(player): add an SPS/PPS init segment to HLS streams that lack them (#2606)](https://github.com/NuvioMedia/NuvioMobile/pull/2606) @skoruppa  \r\n- [fix(player): decode DASH MIME query hints before detection (#2600)](https://github.com/NuvioMedia/NuvioMobile/pull/2600) @retrocodes12  \r\n- [i18n(vi): update latest Vietnamese strings (#2601)](https://github.com/NuvioMedia/NuvioMobile/pull/2601) @blueocean2308  \r\n- [fix(streams): keep tokenized links for reuse and refresh expired saved links (#2598)](https://github.com/NuvioMedia/NuvioMobile/pull/2598) @skoruppa  \r\n- [i18n: add French string for signed-out notice (#2593)](https://github.com/NuvioMedia/NuvioMobile/pull/2593) @SK-Gits  \r\n- [Update Dutch (nl) strings and reorder Dutch in Settings (#2592)](https://github.com/NuvioMedia/NuvioMobile/pull/2592) @mronion212  \r\n",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+          "size": 69852349,
+          "sha256": "cc02dc57e268b43a1294841bf6e6a661c9189b1b801292c7bf7fa682ac472ae9",
           "minOSVersion": "16.1"
         }
       ],
@@ -119,9 +119,9 @@
           "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
         }
       },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.11-beta/nuvio-0.6.11-full-release.ipa",
-      "version": "0.6.11",
-      "size": 69784598,
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+      "version": "0.6.12",
+      "size": 69852349,
       "minOSVersion": "16.1"
     },
     {
@@ -181,31 +181,31 @@
       "type": 1
     },
     {
-      "name": "X (NFB+TWI 7.3.1)",
+      "name": "X (NFB 7.3.1)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.42.1",
-      "versionDate": "2026-11-10",
-      "size": 282103271,
+      "version": "12.43",
+      "versionDate": "2026-11-12",
+      "size": 282907531,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.42.1\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1287?comment=13896\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1288.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1288-X%2012.42.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.43\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1336?comment=14512\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1336.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1336-X%2012.43%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.42.1",
-          "date": "2026-11-10",
-          "localizedDescription": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy\n\n@ipavault | Builds of X/Twitter 12.42.1 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1288-X%2012.42.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 282103271,
+          "version": "12.43",
+          "date": "2026-11-12",
+          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.43 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1336-X%2012.43%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+          "size": 282907531,
           "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "Tweaks: bhFLEX, BHTwitter, TWIGalaxy",
+      "subtitle": "Tweaks: bhFLEX, BHTwitter",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1288.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1336.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261110040027",
+      "fullDate": "20261112040038",
       "type": 1
     },
     {
@@ -298,28 +298,28 @@
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "@riftysIPAlibrary",
-      "version": "1.166",
-      "versionDate": "2026-11-08",
-      "size": 58212596,
+      "version": "1.167",
+      "versionDate": "2026-11-12",
+      "size": 73184164,
       "minOSVersion": "16.0",
-      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.166\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8867.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8867-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.166-riftysipas.ipa",
+      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.167\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8940.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8940-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.167-riftysipas.ipa",
       "versions": [
         {
-          "version": "1.166",
-          "date": "2026-11-08",
-          "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.166 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8867-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.166-riftysipas.ipa",
-          "size": 58212596,
+          "version": "1.167",
+          "date": "2026-11-12",
+          "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.167 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8940-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.167-riftysipas.ipa",
+          "size": 73184164,
           "minOSVersion": "16.0"
         }
       ],
       "subtitle": "Tweaks: riftyslyfta",
       "tintColor": "#9CBEDC",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8867.png",
+      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8940.png",
       "bundleID": "com.lyftaios",
-      "fullDate": "20261108040050",
+      "fullDate": "20261112040038",
       "type": 1
     },
     {
@@ -391,11 +391,11 @@
       "versions": [
         {
           "version": "3.3.1",
-          "buildVersion": "11577",
+          "buildVersion": "11581",
           "date": "2026-11-11T13:12:26Z",
-          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-11\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-12\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n### 🧰 Maintenance & CI\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
           "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-          "size": 43972124,
+          "size": 44065555,
           "minOSVersion": "15.0"
         }
       ],
@@ -406,9 +406,9 @@
         }
       },
       "version": "3.3.1",
-      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-11\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-12\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n### 🧰 Maintenance & CI\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n### 🔀 Other changes\n- chore: version 3.3.1 (#1071)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
       "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-      "size": 43972124,
+      "size": 44065555,
       "minOSVersion": "15.0"
     }
   ]
