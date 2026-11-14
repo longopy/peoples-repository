@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-13 15:23 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-14 14:08 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -39,7 +39,7 @@
     {
       "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - mrdrvt99)",
       "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
-      "developerName": "YouTube",
+      "developerName": "TubeVault",
       "version": "21.45.4",
       "versionDate": "2026-11-10",
       "size": 152222295,
@@ -67,7 +67,7 @@
     {
       "name": "YTMusicUltimate",
       "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
-      "developerName": "YouTube",
+      "developerName": "TubeVault",
       "version": "9.45.2",
       "versionDate": "2026-11-10",
       "size": 107079243,
@@ -267,31 +267,31 @@
       "size": 4617383
     },
     {
-      "name": "Husk (v3.4)",
-      "bundleIdentifier": "com.husk.app.3.4",
+      "name": "Husk",
+      "bundleIdentifier": "com.husk.app",
       "developerName": "Leviidev",
       "version": "3.4",
-      "versionDate": "2026-11-06",
+      "versionDate": "2026-11-05",
       "size": 142303569,
       "minOSVersion": "15.5",
-      "localizedDescription": "Run Android apps and games on your iPhone!\nThis is an open source app that lets you run Android apps and games on iOS using an ARM64 translation layer or full Android emulation via QEMU. Supports APKs, XAPKs, APKMs, controllers, and various game engines. Requires iOS 16.4+ and JIT.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://repo.ballermc.com/tubevault/Husk-Icon.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/Husk.ipa",
+      "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
       "versions": [
         {
           "version": "3.4",
-          "date": "2026-11-06",
-          "localizedDescription": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS using an ARM64 translation…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Husk.ipa",
+          "date": "2026-11-05",
+          "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
           "size": 142303569,
           "minOSVersion": "15.5"
         }
       ],
-      "subtitle": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS using an ARM64 translation…",
-      "tintColor": "#10ADEB",
-      "icon": "https://repo.ballermc.com/tubevault/Husk-Icon.png",
-      "bundleID": "com.husk.app.3.4",
-      "fullDate": "20261106040058",
+      "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
+      "tintColor": "#9895D3",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "bundleID": "com.husk.app",
+      "fullDate": "20261105105112",
       "type": 1
     },
     {
@@ -391,11 +391,11 @@
       "versions": [
         {
           "version": "3.3.1",
-          "buildVersion": "11588",
+          "buildVersion": "11590",
           "date": "2026-11-11T13:12:26Z",
-          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-12\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-14\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
           "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-          "size": 44209889,
+          "size": 44569874,
           "minOSVersion": "15.0"
         }
       ],
@@ -406,9 +406,9 @@
         }
       },
       "version": "3.3.1",
-      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-12\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-14\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
       "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-      "size": 44209889,
+      "size": 44569874,
       "minOSVersion": "15.0"
     }
   ]
