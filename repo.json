@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-14 14:08 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-15 14:45 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -103,13 +103,13 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "0.6.12",
-          "buildVersion": "155",
-          "date": "2026-11-12T00:37:11Z",
-          "localizedDescription": "- [feat(player): chapters setting for every engine, chapters on iOS and a chapter title toggle (#2609)](https://github.com/NuvioMedia/NuvioMobile/pull/2609) @skoruppa  \r\n- [fix(collections): respect \"Show catalog type\" in folders (#2608)](https://github.com/NuvioMedia/NuvioMobile/pull/2608) @skoruppa  \r\n- [fix(player): show the real cause of playback errors, like NuvioTV (#2607)](https://github.com/NuvioMedia/NuvioMobile/pull/2607) @skoruppa  \r\n- [fix(player): use the audio clock when mpv video time drops to 0 (#2605)](https://github.com/NuvioMedia/NuvioMobile/pull/2605) @skoruppa  \r\n- [fix(player): add an SPS/PPS init segment to HLS streams that lack them (#2606)](https://github.com/NuvioMedia/NuvioMobile/pull/2606) @skoruppa  \r\n- [fix(player): decode DASH MIME query hints before detection (#2600)](https://github.com/NuvioMedia/NuvioMobile/pull/2600) @retrocodes12  \r\n- [i18n(vi): update latest Vietnamese strings (#2601)](https://github.com/NuvioMedia/NuvioMobile/pull/2601) @blueocean2308  \r\n- [fix(streams): keep tokenized links for reuse and refresh expired saved links (#2598)](https://github.com/NuvioMedia/NuvioMobile/pull/2598) @skoruppa  \r\n- [i18n: add French string for signed-out notice (#2593)](https://github.com/NuvioMedia/NuvioMobile/pull/2593) @SK-Gits  \r\n- [Update Dutch (nl) strings and reorder Dutch in Settings (#2592)](https://github.com/NuvioMedia/NuvioMobile/pull/2592) @mronion212  \r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
-          "size": 69852349,
-          "sha256": "cc02dc57e268b43a1294841bf6e6a661c9189b1b801292c7bf7fa682ac472ae9",
+          "version": "0.6.13",
+          "buildVersion": "156",
+          "date": "2026-11-15T09:36:16Z",
+          "localizedDescription": "- [i18n: add French strings and align birth and death wording (#2664)](https://github.com/NuvioMedia/NuvioMobile/pull/2664) @SK-Gits  \r\n- [i18n(vi): update latest Vietnamese strings (#2622)](https://github.com/NuvioMedia/NuvioMobile/pull/2622) @blueocean2308  \r\n- [perf: smoother cold start and home on Android (#2652)](https://github.com/NuvioMedia/NuvioMobile/pull/2652) @skoruppa  \r\n- [fix(home): show hero only after its source catalogs load (#2651)](https://github.com/NuvioMedia/NuvioMobile/pull/2651) @skoruppa  \r\n- [feat(player): basic keyboard support (#2633)](https://github.com/NuvioMedia/NuvioMobile/pull/2633) @skoruppa  \r\n- [fix(cw): dismiss a next up show by its content id, as on TV (#2632)](https://github.com/NuvioMedia/NuvioMobile/pull/2632) @skoruppa  \r\n- [feat(cw): choose what selecting a Continue Watching item opens (#2630)](https://github.com/NuvioMedia/NuvioMobile/pull/2630) @skoruppa  \r\n- [Translation improvements and adjustments for Slovak language (#2625)](https://github.com/NuvioMedia/NuvioMobile/pull/2625) @mmsw91  \r\n- [i18n: add French strings for chapter title setting (#2621)](https://github.com/NuvioMedia/NuvioMobile/pull/2621) @SK-Gits  \r\n- [feat(player): fall back to the next matching source on failure (#2612)](https://github.com/NuvioMedia/NuvioMobile/pull/2612) @skoruppa  \r\n- [fix(player): show each start-up step on the loading screen, like NuvioTV (#2611)](https://github.com/NuvioMedia/NuvioMobile/pull/2611) @skoruppa  \r\n",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
+          "size": 69922480,
+          "sha256": "e1e5608c40224cb8840b2afa61998d2e6c3b42556c7754138918b22b51bc31fa",
           "minOSVersion": "16.1"
         }
       ],
@@ -119,9 +119,9 @@
           "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
         }
       },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
-      "version": "0.6.12",
-      "size": 69852349,
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
+      "version": "0.6.13",
+      "size": 69922480,
       "minOSVersion": "16.1"
     },
     {
@@ -184,28 +184,28 @@
       "name": "X (NFB 7.3.1)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.43",
-      "versionDate": "2026-11-12",
-      "size": 282907531,
+      "version": "12.44",
+      "versionDate": "2026-11-15",
+      "size": 288419468,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.43\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1336?comment=14512\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1336.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1336-X%2012.43%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1365?comment=14900\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1365.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1365-X%2012.44%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.43",
-          "date": "2026-11-12",
-          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.43 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1336-X%2012.43%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 282907531,
+          "version": "12.44",
+          "date": "2026-11-15",
+          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1365-X%2012.44%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+          "size": 288419468,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: bhFLEX, BHTwitter",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1336.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1365.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261112040038",
+      "fullDate": "20261115040026",
       "type": 1
     },
     {
