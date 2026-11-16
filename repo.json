@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-15 14:45 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-16 11:58 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -37,59 +37,59 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - mrdrvt99)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.iosdecrypted",
       "developerName": "TubeVault",
-      "version": "21.45.4",
-      "versionDate": "2026-11-10",
-      "size": 152222295,
+      "version": "21.46.3",
+      "versionDate": "2026-11-16",
+      "size": 160462754,
       "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G.\nThis includes the following tweaks:\nYouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, Return-YouTube-Dislikes, DontEatMyContent, VolumeBoostYT, and Open In YouTube (Safari Extension).\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP, YTABConfig, YTVideoOverlay, YTUHD, DontEatMyContent, YouTubeDislikesReturn, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G.\nBonus Tweaks added by iOSDecrypted.\nBonus Tweaks include: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoOverlay, and Open In YouTube Safari Extension.\nThis IPA file was made by https://t.me/iosdecrypted.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.45.4_6.0.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.46.3_YP.ipa",
       "versions": [
         {
-          "version": "21.45.4",
-          "date": "2026-11-10",
-          "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed +3\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.45.4_6.0.ipa",
-          "size": 152222295,
+          "version": "21.46.3",
+          "date": "2026-11-16",
+          "localizedDescription": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP, YTABConfig, YTVideoOverlay, YTUHD, DontEatMyContent, YouTubeDislikesReturn, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Bonus Tweaks added by iOSDecrypted. Bonus…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.46.3_YP.ipa",
+          "size": 160462754,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare +12",
+      "subtitle": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP +6",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.6.0",
-      "fullDate": "20261110040027",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.iosdecrypted",
+      "fullDate": "20261116040027",
       "type": 1
     },
     {
-      "name": "YTMusicUltimate",
-      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
+      "name": "YTMusicUltimate+ (Last.FM - Patched - IPAVault)",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.last.fm.patched.ipavault",
       "developerName": "TubeVault",
-      "version": "9.45.2",
-      "versionDate": "2026-11-10",
-      "size": 107079243,
+      "version": "9.46.3",
+      "versionDate": "2026-11-16",
+      "size": 109753618,
       "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: YTMusicUltimate\n\nThis is a modded version of YouTube Music with just a modded version of YTMusicUltimate.\nYou can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.45.2.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20Last.FM%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "9.45.2",
-          "date": "2026-11-10",
-          "localizedDescription": "Tweaks: YTMusicUltimate\n\nThis is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.45.2.ipa",
-          "size": 107079243,
+          "version": "9.46.3",
+          "date": "2026-11-16",
+          "localizedDescription": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20Last.FM%20%5B@ipavault%5D.ipa",
+          "size": 109753618,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: YTMusicUltimate",
+      "subtitle": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT +3",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "bundleID": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
-      "fullDate": "20261110040027",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.last.fm.patched.ipavault",
+      "fullDate": "20261116040027",
       "type": 1
     },
     {
@@ -103,13 +103,13 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "0.6.13",
-          "buildVersion": "156",
-          "date": "2026-11-15T09:36:16Z",
-          "localizedDescription": "- [i18n: add French strings and align birth and death wording (#2664)](https://github.com/NuvioMedia/NuvioMobile/pull/2664) @SK-Gits  \r\n- [i18n(vi): update latest Vietnamese strings (#2622)](https://github.com/NuvioMedia/NuvioMobile/pull/2622) @blueocean2308  \r\n- [perf: smoother cold start and home on Android (#2652)](https://github.com/NuvioMedia/NuvioMobile/pull/2652) @skoruppa  \r\n- [fix(home): show hero only after its source catalogs load (#2651)](https://github.com/NuvioMedia/NuvioMobile/pull/2651) @skoruppa  \r\n- [feat(player): basic keyboard support (#2633)](https://github.com/NuvioMedia/NuvioMobile/pull/2633) @skoruppa  \r\n- [fix(cw): dismiss a next up show by its content id, as on TV (#2632)](https://github.com/NuvioMedia/NuvioMobile/pull/2632) @skoruppa  \r\n- [feat(cw): choose what selecting a Continue Watching item opens (#2630)](https://github.com/NuvioMedia/NuvioMobile/pull/2630) @skoruppa  \r\n- [Translation improvements and adjustments for Slovak language (#2625)](https://github.com/NuvioMedia/NuvioMobile/pull/2625) @mmsw91  \r\n- [i18n: add French strings for chapter title setting (#2621)](https://github.com/NuvioMedia/NuvioMobile/pull/2621) @SK-Gits  \r\n- [feat(player): fall back to the next matching source on failure (#2612)](https://github.com/NuvioMedia/NuvioMobile/pull/2612) @skoruppa  \r\n- [fix(player): show each start-up step on the loading screen, like NuvioTV (#2611)](https://github.com/NuvioMedia/NuvioMobile/pull/2611) @skoruppa  \r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
-          "size": 69922480,
-          "sha256": "e1e5608c40224cb8840b2afa61998d2e6c3b42556c7754138918b22b51bc31fa",
+          "version": "1.0.0",
+          "buildVersion": "157",
+          "date": "2026-11-15T18:28:31Z",
+          "localizedDescription": "# Nuvio 1.0.0\r\n\r\nThank you to everyone who has contributed to the project, tested the betas, and supported us along the way.\r\n\r\n> [!NOTE]\r\n> On Android, choose **Stable** in **Settings → About → Update channel** for fewer updates and a more stable build. Choose **Beta** for frequent updates, with possible breaking changes. If you were already on a beta build, you stay on **Beta** until you switch.\r\n",
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
+          "size": 69922744,
+          "sha256": "d16afb96819d29477cad322c5f04c10769785023222d095fafd95ff8f54146b9",
           "minOSVersion": "16.1"
         }
       ],
@@ -119,9 +119,9 @@
           "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
         }
       },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
-      "version": "0.6.13",
-      "size": 69922480,
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
+      "version": "1.0.0",
+      "size": 69922744,
       "minOSVersion": "16.1"
     },
     {
@@ -234,6 +234,34 @@
       "icon": "https://fastsign.dev/tg-icon/ipavault/1305.png",
       "bundleID": "com.zhiliaoapp.musically",
       "fullDate": "20261111040052",
+      "type": 1
+    },
+    {
+      "name": "Twitch (TwitchControl 0.0.7)",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "@ipavault",
+      "version": "32.0",
+      "versionDate": "2026-11-16",
+      "size": 198520176,
+      "minOSVersion": "16.4",
+      "localizedDescription": "@ipavault | Builds of Twitch 32.0\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1377.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1377-Twitch%2032.0%20%28TwitchControl%200.0.7%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "32.0",
+          "date": "2026-11-16",
+          "localizedDescription": "@ipavault | Builds of Twitch 32.0 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1377-Twitch%2032.0%20%28TwitchControl%200.0.7%29%20%5B@ipavault%5D.ipa",
+          "size": 198520176,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "subtitle": "@ipavault | Builds of Twitch 32.0 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
+      "tintColor": "#BAA1DE",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1377.png",
+      "bundleID": "tv.twitch",
+      "fullDate": "20261116040027",
       "type": 1
     },
     {
@@ -391,11 +419,11 @@
       "versions": [
         {
           "version": "3.3.1",
-          "buildVersion": "11590",
+          "buildVersion": "11595",
           "date": "2026-11-11T13:12:26Z",
-          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-14\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-16\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n- Add the Reddit community link next to Discord (#1105)\n- Show the app's birthday on 13 May, and Since May 2025 in the footer (#1108)\n- Jellyfin: compare an installed build on its jellyfin-web version (#1113) (#1117)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n- fix(desktop): Partner certificate ignored on Tizen 4.1 to 6.x (#1107) (#1111)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n- i18n: new translations from Crowdin (#1110)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n- Show that the project started in May 2025, and fix the license on the website (#1104)\n- Website and README: 31 languages, with Slovenian (#1106)\n- deps: Bump the nuget group with 9 updates (#1116)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
           "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-          "size": 44569874,
+          "size": 44585409,
           "minOSVersion": "15.0"
         }
       ],
@@ -406,9 +434,9 @@
         }
       },
       "version": "3.3.1",
-      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-14\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
+      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-16\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n- Add the Reddit community link next to Discord (#1105)\n- Show the app's birthday on 13 May, and Since May 2025 in the footer (#1108)\n- Jellyfin: compare an installed build on its jellyfin-web version (#1113) (#1117)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n- fix(desktop): Partner certificate ignored on Tizen 4.1 to 6.x (#1107) (#1111)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n- i18n: new translations from Crowdin (#1110)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n- Show that the project started in May 2025, and fix the license on the website (#1104)\n- Website and README: 31 languages, with Slovenian (#1106)\n- deps: Bump the nuget group with 9 updates (#1116)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
       "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-      "size": 44569874,
+      "size": 44585409,
       "minOSVersion": "15.0"
     }
   ]
