@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-16 16:59 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-17 11:39 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -16,7 +16,7 @@
       "versionDate": "2026-11-08",
       "size": 130776379,
       "minOSVersion": "16.1",
-      "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16)\n\n▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1\n▪Ad blocking and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (Patched)\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (No Plugins): https://t.me/ipavaultchat/13446\n⚠️ Use Spotify 9.1.90 Patched build if you use Feather and a Paid Certificate\n⚠️ Use Spotify 9.1.90 No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Vitrine settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Mod Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Vitrine settings\n3.) Tap on Pixie Download Manager\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes\n\nBuild by: @ipavault\n\nVitrine 1.0.0-b16 by MyNameIsJeff (Forked from Spoti.pw 0.21.1) by skopevoj\nPixie Download Manager 1.4 by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16)\n\n▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1\n▪Ad blocking and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (Patched)\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (No Plugins): https://t.me/ipavaultchat/13446\n⚠️ Use Spotify 9.1.90 Patched build if you use Feather and a Paid Certificate\n⚠️ Use Spotify 9.1.90 No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Vitrine settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Mod Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Vitrine settings\n3.) Tap on Pixie Download Manager\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes\n\nBuild by: @ipavault\n\nVitrine 1.0.0-b16 by MyNameIsJeff (Forked from Spoti.pw 0.21.1) by skopevoj\nPixie Download Manager 1.4 by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1254.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
       "versions": [
@@ -37,119 +37,165 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - iOSDecrypted)",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.iosdecrypted",
-      "developerName": "TubeVault",
-      "version": "21.46.3",
+      "name": "Spotify (EeveeSpotify 7.5.0)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "@ipavault",
+      "version": "9.2.0",
       "versionDate": "2026-11-16",
-      "size": 160462754,
-      "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP, YTABConfig, YTVideoOverlay, YTUHD, DontEatMyContent, YouTubeDislikesReturn, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G.\nBonus Tweaks added by iOSDecrypted.\nBonus Tweaks include: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig, YTUHD, YTVideoOverlay, and Open In YouTube Safari Extension.\nThis IPA file was made by https://t.me/iosdecrypted.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.46.3_YP.ipa",
+      "size": 149188746,
+      "minOSVersion": "15.0",
+      "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0\n\n▪Pixie Download Manager included\nBuilds:\n▪EeveeSpotify 7.5.0 (Patched)\n▪EeveeSpotify 7.5.0 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access EeveeSpotify settings:\n\n1.) Go to Spotify Settings\n2.) Tap EeveeSpotify\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes (EeveeSpotify Reincarnated)\n\nBuild by: @ipavault\n\nEeveeSpotify Reincarnated 7.5.0 by SideloadLabs\nPixie Download Manager by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1375.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1375-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "21.46.3",
+          "version": "9.2.0",
           "date": "2026-11-16",
-          "localizedDescription": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP, YTABConfig, YTVideoOverlay, YTUHD, DontEatMyContent, YouTubeDislikesReturn, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Bonus Tweaks added by iOSDecrypted. Bonus…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.46.3_YP.ipa",
-          "size": 160462754,
-          "minOSVersion": "17.0"
+          "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0 ▪Pixie Download Manager included Builds: ▪EeveeSpotify 7.5.0 (Patched) ▪EeveeSpotify 7.5.0 (No Plugins) ⚠️ Use…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1375-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+          "size": 149188746,
+          "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "Tweaks: NoYTPremium, YouGroupSettings, YouPiP +6",
-      "tintColor": "#D68A8A",
-      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.6.0.iosdecrypted",
+      "subtitle": "Tweaks: EeveeSpotify, SpotifyAudioProbe",
+      "tintColor": "#7ED29D",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1375.png",
+      "bundleID": "com.spotify.client",
       "fullDate": "20261116040027",
       "type": 1
     },
     {
-      "name": "YTMusicUltimate+ (Last.FM - Patched - IPAVault)",
-      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.last.fm.patched.ipavault",
+      "name": "YTPlus/YTLite Cracked (6.0) - IPAVault - Patched",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.latest.ipavault.patched",
+      "developerName": "TubeVault",
+      "version": "21.46.3",
+      "versionDate": "2026-11-16",
+      "size": 170787970,
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YouGroupSettings, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Build by IPAVault, this comes with plugin/widget support.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.46.3%20YTPlus%206.0%20base%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.46.3",
+          "date": "2026-11-16",
+          "localizedDescription": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YouGroupSettings, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Build by IPAVault, this comes with…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.46.3%20YTPlus%206.0%20base%20%5B@ipavault%5D.ipa",
+          "size": 170787970,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "subtitle": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality +4",
+      "tintColor": "#D68A8A",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.6.0.latest.ipavault.patched",
+      "fullDate": "20261116170119",
+      "type": 1
+    },
+    {
+      "name": "YTMusicUltimate+ (Patched - IPAVault)",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
       "developerName": "TubeVault",
       "version": "9.46.3",
       "versionDate": "2026-11-16",
-      "size": 109753618,
+      "size": 109695561,
       "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20Last.FM%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.46.3",
           "date": "2026-11-16",
-          "localizedDescription": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20Last.FM%20%5B@ipavault%5D.ipa",
-          "size": 109753618,
+          "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20%5B@ipavault%5D.ipa",
+          "size": 109695561,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: LastFMYTMusic, ReturnYouTubeMusicDislikes, VolumeBoostYT +3",
+      "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP +2",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.last.fm.patched.ipavault",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
       "fullDate": "20261116040027",
       "type": 1
     },
     {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "NuvioMedia",
-      "subtitle": "A free, open-source media app for your phone, your desktop, and the TV you already own.",
-      "localizedDescription": "A free, open-source media app for your phone, your desktop, and the TV you already own.\n\nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.",
-      "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
-      "tintColor": "#BF9FD8",
-      "category": "entertainment",
+      "developerName": "scholars lounge",
+      "version": "1.1.0-beta.1",
+      "versionDate": "2026-11-17",
+      "size": 70401015,
+      "minOSVersion": "16.1",
+      "localizedDescription": "scholars lounge | Nuvio\nVersion: 1.1.0 Beta 1\nBundle ID: com​.nuvio​.media\nApp by tapframe\n\nNuvio Full\nA free, open-source media app for your phone, your desktop, and the TV you already own. \nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86551.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
       "versions": [
         {
-          "version": "1.0.0",
-          "buildVersion": "157",
-          "date": "2026-11-15T18:28:31Z",
-          "localizedDescription": "# Nuvio 1.0.0\r\n\r\nThank you to everyone who has contributed to the project, tested the betas, and supported us along the way.\r\n\r\n> [!NOTE]\r\n> On Android, choose **Stable** in **Settings → About → Update channel** for fewer updates and a more stable build. Choose **Beta** for frequent updates, with possible breaking changes. If you were already on a beta build, you stay on **Beta** until you switch.\r\n",
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
-          "size": 69922744,
-          "sha256": "d16afb96819d29477cad322c5f04c10769785023222d095fafd95ff8f54146b9",
+          "version": "1.1.0-beta.1",
+          "date": "2026-11-17",
+          "localizedDescription": "scholars lounge | Nuvio Version: 1.1.0 Beta 1 Bundle ID: com​.nuvio​.media App by tapframe Nuvio Full A free, open-source media app for your phone…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
+          "size": 70401015,
           "minOSVersion": "16.1"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
+      "subtitle": "scholars lounge | Nuvio Version: 1.1.0 Beta 1 Bundle ID: com​.nuvio​.media App by tapframe Nuvio Full A free, open-source media app for your phone…",
+      "tintColor": "#C6A0DE",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/86551.png",
+      "bundleID": "com.nuvio.media",
+      "fullDate": "20261117040040",
+      "type": 1
+    },
+    {
+      "name": "Unbound 1.8.0 (Discord 356.0 - TestFlight)",
+      "bundleIdentifier": "com.hammerandchisel.discord.testflight.356.0.unbound.1.8.0",
+      "developerName": "TubeVault",
+      "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
+      "subtitle": "Mod by marioparaschiv",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.8.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
+      "tintColor": "#AEB2E2",
+      "versions": [
+        {
+          "version": "356.0",
+          "date": "2026-11-15T00:00:00Z",
+          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.8.0 injected.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.0%20-%20Discord%20356.0-TestFlight.ipa",
+          "size": 65351743
         }
-      },
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.0.0/nuvio-1.0.0-full-release.ipa",
-      "version": "1.0.0",
-      "size": 69922744,
-      "minOSVersion": "16.1"
+      ],
+      "appPermissions": {},
+      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.0%20-%20Discord%20356.0-TestFlight.ipa",
+      "version": "356.0",
+      "size": 65351743
     },
     {
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "scholars lounge",
-      "version": "2026.45.0",
-      "versionDate": "2026-11-10",
-      "size": 145203937,
+      "version": "2026.46.0",
+      "versionDate": "2026-11-17",
+      "size": 145681819,
       "minOSVersion": "16.0",
-      "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.45.0\n\n- Reddit 2026.45.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84961.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84961-RedditDeluxes_2026.45.0_Jacks_Apps.ipa",
+      "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0\n\n- Reddit 2026.46.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86617.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
       "versions": [
         {
-          "version": "2026.45.0",
-          "date": "2026-11-10",
-          "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.45.0 - Reddit 2026.45.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84961-RedditDeluxes_2026.45.0_Jacks_Apps.ipa",
-          "size": 145203937,
+          "version": "2026.46.0",
+          "date": "2026-11-17",
+          "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0 - Reddit 2026.46.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
+          "size": 145681819,
           "minOSVersion": "16.0"
         }
       ],
       "subtitle": "Tweaks: MoesReddit",
       "tintColor": "#D69F8A",
-      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/84961.png",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/86617.png",
       "bundleID": "com.reddit.Reddit",
-      "fullDate": "20261110040027",
+      "fullDate": "20261117040040",
       "type": 1
     },
     {
@@ -160,7 +206,7 @@
       "versionDate": "2026-11-11",
       "size": 314793648,
       "minOSVersion": "16.3",
-      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0\n\n▪Updated to Regram 7.0.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0\n\n▪Updated to Regram 7.0.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1310.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1310-Regram%207.0.1%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
       "versions": [
@@ -188,7 +234,7 @@
       "versionDate": "2026-11-15",
       "size": 288419468,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1365?comment=14900\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1365?comment=14900\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1365.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1365-X%2012.44%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
@@ -209,31 +255,31 @@
       "type": 1
     },
     {
-      "name": "TikTok (Infinitok)",
+      "name": "TikTok (InfiniTok)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "@ipavault",
-      "version": "47.7.0",
-      "versionDate": "2026-11-11",
-      "size": 521729121,
+      "developerName": "scholars lounge",
+      "version": "47.8.0",
+      "versionDate": "2026-11-17",
+      "size": 510243989,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.7.0 (Infinitok test v0.0.2)\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok test 0.0.2 by Mod4\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1305.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1305-TikTok%2047.7.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: Infinitok\n\nscholars lounge | InfiniTok 47.8.0\n\nTikTok 47.8.0\n- InfiniTok\n- Patch included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86621.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86621-InfiniTok_47.8.0_Jacks_Apps.ipa",
       "versions": [
         {
-          "version": "47.7.0",
-          "date": "2026-11-11",
-          "localizedDescription": "Tweaks: Infinitok\n\n@ipavault | TikTok 47.7.0 (Infinitok test v0.0.2) ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1305-TikTok%2047.7.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
-          "size": 521729121,
+          "version": "47.8.0",
+          "date": "2026-11-17",
+          "localizedDescription": "Tweaks: Infinitok\n\nscholars lounge | InfiniTok 47.8.0 TikTok 47.8.0 - InfiniTok - Patch included Made by @Jacks_Apps App decrypted by @eeveedecrypterbot",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86621-InfiniTok_47.8.0_Jacks_Apps.ipa",
+          "size": 510243989,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: Infinitok",
       "tintColor": "#BA949C",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1305.png",
+      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/86621.png",
       "bundleID": "com.zhiliaoapp.musically",
-      "fullDate": "20261111040052",
+      "fullDate": "20261117040040",
       "type": 1
     },
     {
@@ -244,7 +290,7 @@
       "versionDate": "2026-11-16",
       "size": 198520176,
       "minOSVersion": "16.4",
-      "localizedDescription": "@ipavault | Builds of Twitch 32.0\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "@ipavault | Builds of Twitch 32.0\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1377.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1377-Twitch%2032.0%20%28TwitchControl%200.0.7%29%20%5B@ipavault%5D.ipa",
       "versions": [
@@ -295,34 +341,6 @@
       "size": 4617383
     },
     {
-      "name": "Husk",
-      "bundleIdentifier": "com.husk.app",
-      "developerName": "Leviidev",
-      "version": "3.4",
-      "versionDate": "2026-11-05",
-      "size": 142303569,
-      "minOSVersion": "15.5",
-      "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
-      "versions": [
-        {
-          "version": "3.4",
-          "date": "2026-11-05",
-          "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
-          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
-          "size": 142303569,
-          "minOSVersion": "15.5"
-        }
-      ],
-      "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
-      "tintColor": "#9895D3",
-      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
-      "bundleID": "com.husk.app",
-      "fullDate": "20261105105112",
-      "type": 1
-    },
-    {
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "@riftysIPAlibrary",
@@ -330,7 +348,7 @@
       "versionDate": "2026-11-13",
       "size": 73170885,
       "minOSVersion": "16.0",
-      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.168\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.168\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8969.png",
       "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8969-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.168-riftysipas.ipa",
       "versions": [
@@ -358,7 +376,7 @@
       "versionDate": "2026-11-11",
       "size": 217742068,
       "minOSVersion": "18.0",
-      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.45.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.45.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
@@ -386,7 +404,7 @@
       "versionDate": "2026-06-10",
       "size": 61704079,
       "minOSVersion": "7.0",
-      "localizedDescription": "Balatro_1.0.1o\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "localizedDescription": "Balatro_1.0.1o\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Balatro_1.0.1o.png",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/Balatro_1.0.1o.ipa",
       "versions": [
@@ -404,6 +422,34 @@
       "icon": "https://ipa.cypwn.xyz/serve/icons/Balatro_1.0.1o.png",
       "bundleID": "org.htf65jud.balatro",
       "fullDate": "20260610050603",
+      "type": 1
+    },
+    {
+      "name": "Husk",
+      "bundleIdentifier": "com.husk.app",
+      "developerName": "Leviidev",
+      "version": "3.4",
+      "versionDate": "2026-11-05",
+      "size": 142303569,
+      "minOSVersion": "15.5",
+      "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+      "versions": [
+        {
+          "version": "3.4",
+          "date": "2026-11-05",
+          "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
+          "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
+          "size": 142303569,
+          "minOSVersion": "15.5"
+        }
+      ],
+      "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
+      "tintColor": "#9895D3",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "bundleID": "com.husk.app",
+      "fullDate": "20261105105112",
       "type": 1
     },
     {
