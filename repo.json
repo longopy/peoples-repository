@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-17 11:39 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-17 16:52 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -149,26 +149,26 @@
       "type": 1
     },
     {
-      "name": "Unbound 1.8.0 (Discord 356.0 - TestFlight)",
-      "bundleIdentifier": "com.hammerandchisel.discord.testflight.356.0.unbound.1.8.0",
+      "name": "Unbound 1.8.1 (Discord 356.0 - TestFlight)",
+      "bundleIdentifier": "com.hammerandchisel.discord.testflight.356.0.unbound.1.8.1",
       "developerName": "TubeVault",
       "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
       "subtitle": "Mod by marioparaschiv",
-      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.8.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.8.1 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
       "tintColor": "#AEB2E2",
       "versions": [
         {
           "version": "356.0",
-          "date": "2026-11-15T00:00:00Z",
-          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.8.0 injected.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.0%20-%20Discord%20356.0-TestFlight.ipa",
-          "size": 65351743
+          "date": "2026-11-17T00:00:00Z",
+          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.8.1 injected.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.1%20-%20Discord%20356.0-TestFlight.ipa",
+          "size": 101679966
         }
       ],
       "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.0%20-%20Discord%20356.0-TestFlight.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.1%20-%20Discord%20356.0-TestFlight.ipa",
       "version": "356.0",
-      "size": 65351743
+      "size": 101679966
     },
     {
       "name": "Reddit",
@@ -283,32 +283,26 @@
       "type": 1
     },
     {
-      "name": "Twitch (TwitchControl 0.0.7)",
-      "bundleIdentifier": "tv.twitch",
-      "developerName": "@ipavault",
-      "version": "32.0",
-      "versionDate": "2026-11-16",
-      "size": 198520176,
-      "minOSVersion": "16.4",
-      "localizedDescription": "@ipavault | Builds of Twitch 32.0\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1377.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1377-Twitch%2032.0%20%28TwitchControl%200.0.7%29%20%5B@ipavault%5D.ipa",
+      "name": "TwitchControl (v0.0.7 - IPAVault) - Patched",
+      "bundleIdentifier": "tv.twitch.32.1.twitchcontrol.0.0.7.ipavault",
+      "developerName": "TubeVault",
+      "iconURL": "https://repo.ballermc.com/tubevault/Twitch-Icon.png",
+      "subtitle": "Mod by ZeroDeadBeef, Build by IPAVault",
+      "localizedDescription": "This is a modded version of Twitch with TwitchControl added.",
+      "tintColor": "#BAA1DE",
       "versions": [
         {
-          "version": "32.0",
-          "date": "2026-11-16",
-          "localizedDescription": "@ipavault | Builds of Twitch 32.0 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1377-Twitch%2032.0%20%28TwitchControl%200.0.7%29%20%5B@ipavault%5D.ipa",
-          "size": 198520176,
-          "minOSVersion": "16.4"
+          "version": "32.1",
+          "date": "2026-11-17T00:00:00Z",
+          "localizedDescription": "This uses 32.1 version of Twitch.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20(TwitchControl%200.0.7)%20%5B%40ipavault%5D.ipa",
+          "size": 198740818
         }
       ],
-      "subtitle": "@ipavault | Builds of Twitch 32.0 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
-      "tintColor": "#BAA1DE",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1377.png",
-      "bundleID": "tv.twitch",
-      "fullDate": "20261116040027",
-      "type": 1
+      "appPermissions": {},
+      "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20(TwitchControl%200.0.7)%20%5B%40ipavault%5D.ipa",
+      "version": "32.1",
+      "size": 198740818
     },
     {
       "name": "TwitchUnblock",
