@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-17 16:52 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-18 16:26 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -37,67 +37,67 @@
       "type": 1
     },
     {
-      "name": "Spotify (EeveeSpotify 7.5.0)",
+      "name": "EeveeSpotifyReincarnated (v7.5.0 - Not Patched) IPAVault",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "@ipavault",
+      "developerName": "TubeVault",
       "version": "9.2.0",
-      "versionDate": "2026-11-16",
-      "size": 149188746,
+      "versionDate": "2026-11-18",
+      "size": 148027610,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0\n\n▪Pixie Download Manager included\nBuilds:\n▪EeveeSpotify 7.5.0 (Patched)\n▪EeveeSpotify 7.5.0 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access EeveeSpotify settings:\n\n1.) Go to Spotify Settings\n2.) Tap EeveeSpotify\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes (EeveeSpotify Reincarnated)\n\nBuild by: @ipavault\n\nEeveeSpotify Reincarnated 7.5.0 by SideloadLabs\nPixie Download Manager by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1375.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1375-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0\n\nLatest commits; Fixes some bugs\n▪Pixie Download Manager included\nBuilds:\n▪EeveeSpotify 7.5.0 (Patched)\n▪EeveeSpotify 7.5.0 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access EeveeSpotify settings:\n\n1.) Go to Spotify Settings\n2.) Tap EeveeSpotify\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes (EeveeSpotify Reincarnated)\n\nBuild by: @ipavault\n\nEeveeSpotify Reincarnated 7.5.0 by SideloadLabs\nPixie Download Manager by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "9.2.0",
-          "date": "2026-11-16",
-          "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0 ▪Pixie Download Manager included Builds: ▪EeveeSpotify 7.5.0 (Patched) ▪EeveeSpotify 7.5.0 (No Plugins) ⚠️ Use…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1375-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
-          "size": 149188746,
+          "date": "2026-11-18",
+          "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0 Latest commits; Fixes some bugs ▪Pixie Download Manager included Builds: ▪EeveeSpotify 7.5.0 (Patched)…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20No%20Plugins.ipa",
+          "size": 148027610,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: EeveeSpotify, SpotifyAudioProbe",
-      "tintColor": "#7ED29D",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1375.png",
+      "tintColor": "#7FD29D",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
       "bundleID": "com.spotify.client",
-      "fullDate": "20261116040027",
+      "fullDate": "20261118040040",
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked (6.0) - IPAVault - Patched",
-      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.6.0.latest.ipavault.patched",
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - mrdrvt99)",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TubeVault",
       "version": "21.46.3",
-      "versionDate": "2026-11-16",
-      "size": 170787970,
+      "versionDate": "2026-11-18",
+      "size": 153406238,
       "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YouGroupSettings, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Build by IPAVault, this comes with plugin/widget support.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "localizedDescription": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed, YTLite +2\n\nCracked by Spy_G.\nThis includes the following tweaks:\nYouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, Return-YouTube-Dislikes, DontEatMyContent, VolumeBoostYT, and Open In YouTube (Safari Extension).\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.46.3%20YTPlus%206.0%20base%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.46.3_6.0.ipa",
       "versions": [
         {
           "version": "21.46.3",
-          "date": "2026-11-16",
-          "localizedDescription": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YouGroupSettings, YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G. Build by IPAVault, this comes with…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.46.3%20YTPlus%206.0%20base%20%5B@ipavault%5D.ipa",
-          "size": 170787970,
+          "date": "2026-11-18",
+          "localizedDescription": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed, YTLite +2\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.46.3_6.0.ipa",
+          "size": 153406238,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: YouTubeDislikesReturn, YouPiP, YouQuality +4",
+      "subtitle": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn +11",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "bundleID": "com.google.ios.youtube.ytplus.cracked.6.0.latest.ipavault.patched",
-      "fullDate": "20261116170119",
+      "bundleID": "com.google.ios.youtube",
+      "fullDate": "20261118040040",
       "type": 1
     },
     {
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
-      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TubeVault",
       "version": "9.46.3",
-      "versionDate": "2026-11-16",
+      "versionDate": "2026-11-18",
       "size": 109695561,
       "minOSVersion": "17.0",
       "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
@@ -106,7 +106,7 @@
       "versions": [
         {
           "version": "9.46.3",
-          "date": "2026-11-16",
+          "date": "2026-11-18",
           "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
           "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20%5B@ipavault%5D.ipa",
           "size": 109695561,
@@ -116,8 +116,8 @@
       "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP +2",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.patched.ipavault",
-      "fullDate": "20261116040027",
+      "bundleID": "com.google.ios.youtube",
+      "fullDate": "20261118040040",
       "type": 1
     },
     {
@@ -149,26 +149,26 @@
       "type": 1
     },
     {
-      "name": "Unbound 1.8.1 (Discord 356.0 - TestFlight)",
-      "bundleIdentifier": "com.hammerandchisel.discord.testflight.356.0.unbound.1.8.1",
+      "name": "Unbound 1.9.0 (Discord 356.0 - TestFlight)",
+      "bundleIdentifier": "com.hammerandchisel.discord.testflight",
       "developerName": "TubeVault",
       "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
       "subtitle": "Mod by marioparaschiv",
-      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.8.1 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.9.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
       "tintColor": "#AEB2E2",
       "versions": [
         {
           "version": "356.0",
-          "date": "2026-11-17T00:00:00Z",
-          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.8.1 injected.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.1%20-%20Discord%20356.0-TestFlight.ipa",
-          "size": 101679966
+          "date": "2026-11-19T00:00:00Z",
+          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.9.0 injected.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.9.0%20-%20Discord%20356.0-TestFlight.ipa",
+          "size": 65055518
         }
       ],
       "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.8.1%20-%20Discord%20356.0-TestFlight.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.9.0%20-%20Discord%20356.0-TestFlight.ipa",
       "version": "356.0",
-      "size": 101679966
+      "size": 65055518
     },
     {
       "name": "Reddit",
@@ -255,54 +255,60 @@
       "type": 1
     },
     {
-      "name": "TikTok (InfiniTok)",
+      "name": "TikTok (Infinitok 1.0.1)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "scholars lounge",
+      "developerName": "@ipavault",
       "version": "47.8.0",
-      "versionDate": "2026-11-17",
-      "size": 510243989,
+      "versionDate": "2026-11-18",
+      "size": 526519093,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: Infinitok\n\nscholars lounge | InfiniTok 47.8.0\n\nTikTok 47.8.0\n- InfiniTok\n- Patch included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86621.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86621-InfiniTok_47.8.0_Jacks_Apps.ipa",
+      "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\nInstructions to access gtok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap gtok settings at the top\n⚠️ Requires an RXTikTok License/Key\nInstructions to access RXTikTok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap RXTikTok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok 1.0.1 by Mod4\ngtok 2.6.1 by @g_tweaks\nRXTikTok 2.0.4 by @BHTikTokPlusPlus\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1425.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "47.8.0",
-          "date": "2026-11-17",
-          "localizedDescription": "Tweaks: Infinitok\n\nscholars lounge | InfiniTok 47.8.0 TikTok 47.8.0 - InfiniTok - Patch included Made by @Jacks_Apps App decrypted by @eeveedecrypterbot",
-          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/86621-InfiniTok_47.8.0_Jacks_Apps.ipa",
-          "size": 510243989,
+          "date": "2026-11-18",
+          "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0 ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok 2.) Tap the…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
+          "size": 526519093,
           "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "Tweaks: Infinitok",
+      "subtitle": "Tweaks: PathRedirect, Infinitok",
       "tintColor": "#BA949C",
-      "icon": "https://fastsign.dev/tg-icon/scholars-lounge/86621.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1425.png",
       "bundleID": "com.zhiliaoapp.musically",
-      "fullDate": "20261117040040",
+      "fullDate": "20261118040040",
       "type": 1
     },
     {
-      "name": "TwitchControl (v0.0.7 - IPAVault) - Patched",
-      "bundleIdentifier": "tv.twitch.32.1.twitchcontrol.0.0.7.ipavault",
+      "name": "TwitchControl (v0.0.7 - IPAVault) - Patched + Liquid Glass",
+      "bundleIdentifier": "tv.twitch",
       "developerName": "TubeVault",
+      "version": "32.1",
+      "versionDate": "2026-11-18",
+      "size": 198740840,
+      "minOSVersion": "16.4",
+      "localizedDescription": "@ipavault | Builds of Twitch 32.1\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n✅ OpenInTwitch Safari Extension\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://repo.ballermc.com/tubevault/Twitch-Icon.png",
-      "subtitle": "Mod by ZeroDeadBeef, Build by IPAVault",
-      "localizedDescription": "This is a modded version of Twitch with TwitchControl added.",
-      "tintColor": "#BAA1DE",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20%28TwitchControl%200.0.7%29%20Glass.ipa",
       "versions": [
         {
           "version": "32.1",
-          "date": "2026-11-17T00:00:00Z",
-          "localizedDescription": "This uses 32.1 version of Twitch.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20(TwitchControl%200.0.7)%20%5B%40ipavault%5D.ipa",
-          "size": 198740818
+          "date": "2026-11-18",
+          "localizedDescription": "@ipavault | Builds of Twitch 32.1 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20%28TwitchControl%200.0.7%29%20Glass.ipa",
+          "size": 198740840,
+          "minOSVersion": "16.4"
         }
       ],
-      "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20(TwitchControl%200.0.7)%20%5B%40ipavault%5D.ipa",
-      "version": "32.1",
-      "size": 198740818
+      "subtitle": "@ipavault | Builds of Twitch 32.1 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
+      "tintColor": "#BAA1DE",
+      "icon": "https://repo.ballermc.com/tubevault/Twitch-Icon.png",
+      "bundleID": "tv.twitch",
+      "fullDate": "20261118040040",
+      "type": 1
     },
     {
       "name": "TwitchUnblock",
@@ -366,20 +372,20 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "AppTesters IPA Repo",
-      "version": "26.45.0",
-      "versionDate": "2026-11-11",
-      "size": 217742068,
+      "version": "26.46.0",
+      "versionDate": "2026-11-18",
+      "size": 219813653,
       "minOSVersion": "18.0",
-      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.45.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.46.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
         {
-          "version": "26.45.0",
-          "date": "2026-11-11",
-          "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.45.0 • Minimum iOS: 18.0 • Patched • Modifier…",
-          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
-          "size": 217742068,
+          "version": "26.46.0",
+          "date": "2026-11-18",
+          "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.46.0 • Minimum iOS: 18.0 • Patched • Modifier…",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 219813653,
           "minOSVersion": "18.0"
         }
       ],
@@ -387,7 +393,7 @@
       "tintColor": "#84A6D4",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "bundleID": "com.myfitnesspal.mfp",
-      "fullDate": "20261111040052",
+      "fullDate": "20261118040040",
       "type": 1
     },
     {
