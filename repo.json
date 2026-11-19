@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-18 16:26 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-19 16:33 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -96,20 +96,20 @@
       "name": "YTMusicUltimate+ (Patched - IPAVault)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TubeVault",
-      "version": "9.46.3",
-      "versionDate": "2026-11-18",
-      "size": 109695561,
+      "version": "9.46.5",
+      "versionDate": "2026-11-19",
+      "size": 124510678,
       "minOSVersion": "17.0",
       "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPiP, and New Downloading mod by Mark02-2012. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.5%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "9.46.3",
-          "date": "2026-11-18",
+          "version": "9.46.5",
+          "date": "2026-11-19",
           "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.3%20%5B@ipavault%5D.ipa",
-          "size": 109695561,
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.46.5%20%5B@ipavault%5D.ipa",
+          "size": 124510678,
           "minOSVersion": "17.0"
         }
       ],
@@ -117,7 +117,7 @@
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
       "bundleID": "com.google.ios.youtube",
-      "fullDate": "20261118040040",
+      "fullDate": "20261119040040",
       "type": 1
     },
     {
@@ -149,26 +149,26 @@
       "type": 1
     },
     {
-      "name": "Unbound 1.9.0 (Discord 356.0 - TestFlight)",
+      "name": "Unbound 1.11.0 (Discord 356.0 - TestFlight)",
       "bundleIdentifier": "com.hammerandchisel.discord.testflight",
       "developerName": "TubeVault",
       "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
       "subtitle": "Mod by marioparaschiv",
-      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.9.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.11.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
       "tintColor": "#AEB2E2",
       "versions": [
         {
           "version": "356.0",
-          "date": "2026-11-19T00:00:00Z",
-          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.9.0 injected.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.9.0%20-%20Discord%20356.0-TestFlight.ipa",
-          "size": 65055518
+          "date": "2026-11-20T00:00:00Z",
+          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.11.0 injected.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.11.0%20-%20Discord%20356.0-TestFlight.ipa",
+          "size": 62909457
         }
       ],
       "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.9.0%20-%20Discord%20356.0-TestFlight.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.11.0%20-%20Discord%20356.0-TestFlight.ipa",
       "version": "356.0",
-      "size": 65055518
+      "size": 62909457
     },
     {
       "name": "Reddit",
@@ -283,31 +283,31 @@
       "type": 1
     },
     {
-      "name": "TwitchControl (v0.0.7 - IPAVault) - Patched + Liquid Glass",
+      "name": "TwitchControl (v0.0.7 - TubeVault/BallerMC) - Liquid Glass",
       "bundleIdentifier": "tv.twitch",
       "developerName": "TubeVault",
       "version": "32.1",
-      "versionDate": "2026-11-18",
-      "size": 198740840,
+      "versionDate": "2026-11-19",
+      "size": 200987102,
       "minOSVersion": "16.4",
-      "localizedDescription": "@ipavault | Builds of Twitch 32.1\n\nBuilds:\n▪TwitchControl 0.0.7\n▪TwitchControl 0.0.7 (Glass)\nSteps to access TwitchControl settings:\n\n1.) Go to Twitch Settings\n2.) Tap TwitchControl\n✅ Patched\n✅ OpenInTwitch Safari Extension\n\nBuild by: @ipavault\n\nTwitch Control 0.0.7 by @zeroxdeadbeef\nDecrypted by @FastDecryptBot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "localizedDescription": "This is a modded version of Twitch with TwitchControl + Liquid Glass added.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://repo.ballermc.com/tubevault/Twitch-Icon.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20%28TwitchControl%200.0.7%29%20Glass.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Twitch_v32.1_TwitchControl_v0.0.7_Liquid_Glass%5Btg@tubevault%5D.ipa",
       "versions": [
         {
           "version": "32.1",
-          "date": "2026-11-18",
-          "localizedDescription": "@ipavault | Builds of Twitch 32.1 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Twitch%2032.1%20%28TwitchControl%200.0.7%29%20Glass.ipa",
-          "size": 198740840,
+          "date": "2026-11-19",
+          "localizedDescription": "This is a modded version of Twitch with TwitchControl + Liquid Glass added.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Twitch_v32.1_TwitchControl_v0.0.7_Liquid_Glass%5Btg@tubevault%5D.ipa",
+          "size": 200987102,
           "minOSVersion": "16.4"
         }
       ],
-      "subtitle": "@ipavault | Builds of Twitch 32.1 Builds: ▪TwitchControl 0.0.7 ▪TwitchControl 0.0.7 (Glass) Steps to access TwitchControl settings: 1.) Go to Twitch…",
+      "subtitle": "This is a modded version of Twitch with TwitchControl + Liquid Glass added.",
       "tintColor": "#BAA1DE",
       "icon": "https://repo.ballermc.com/tubevault/Twitch-Icon.png",
       "bundleID": "tv.twitch",
-      "fullDate": "20261118040040",
+      "fullDate": "20261119040040",
       "type": 1
     },
     {
@@ -344,28 +344,28 @@
       "name": "Lyfta",
       "bundleIdentifier": "com.lyftaios",
       "developerName": "@riftysIPAlibrary",
-      "version": "1.168",
-      "versionDate": "2026-11-13",
-      "size": 73170885,
+      "version": "1.169",
+      "versionDate": "2026-11-19",
+      "size": 73383971,
       "minOSVersion": "16.0",
-      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.168\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8969.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8969-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.168-riftysipas.ipa",
+      "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.169\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/9051.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
       "versions": [
         {
-          "version": "1.168",
-          "date": "2026-11-13",
-          "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.168 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8969-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.168-riftysipas.ipa",
-          "size": 73170885,
+          "version": "1.169",
+          "date": "2026-11-19",
+          "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.169 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
+          "size": 73383971,
           "minOSVersion": "16.0"
         }
       ],
       "subtitle": "Tweaks: riftyslyfta",
       "tintColor": "#9CBEDC",
-      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8969.png",
+      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/9051.png",
       "bundleID": "com.lyftaios",
-      "fullDate": "20261113040027",
+      "fullDate": "20261119040040",
       "type": 1
     },
     {
