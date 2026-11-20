@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-19 16:33 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-20 16:08 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -154,7 +154,7 @@
       "developerName": "TubeVault",
       "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
       "subtitle": "Mod by marioparaschiv",
-      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.11.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://github.com/ra1ncord/RainTweak",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.11.0 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://unbound.rip/",
       "tintColor": "#AEB2E2",
       "versions": [
         {
@@ -199,59 +199,59 @@
       "type": 1
     },
     {
-      "name": "Instagram (Regram 7.0.1 · no plugins)",
+      "name": "Instagram (Regram 7.1 · no plugins)",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "@ipavault",
-      "version": "454.1.0",
-      "versionDate": "2026-11-11",
-      "size": 314793648,
+      "version": "456.0.0",
+      "versionDate": "2026-11-20",
+      "size": 331347884,
       "minOSVersion": "16.3",
-      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0\n\n▪Updated to Regram 7.0.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1310.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1310-Regram%207.0.1%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
+      "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0\n\n▪Updated to Regram 7.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1465.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
       "versions": [
         {
-          "version": "454.1.0",
-          "date": "2026-11-11",
-          "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 454.1.0 ▪Updated to Regram 7.0.1 cracked ⚠️ Use Regram build if you use Feather and a Paid Certificate ⚠️ Use Regram…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1310-Regram%207.0.1%20%28IG%20454.1.0%29%20No%20Plugins.ipa",
-          "size": 314793648,
+          "version": "456.0.0",
+          "date": "2026-11-20",
+          "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0 ▪Updated to Regram 7.1 cracked ⚠️ Use Regram build if you use Feather and a Paid Certificate ⚠️ Use Regram…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
+          "size": 331347884,
           "minOSVersion": "16.3"
         }
       ],
       "subtitle": "Tweaks: Regram",
       "tintColor": "#D382BD",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1310.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1465.png",
       "bundleID": "com.burbn.instagram",
-      "fullDate": "20261111040052",
+      "fullDate": "20261120040032",
       "type": 1
     },
     {
       "name": "X (NFB 7.3.1)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.44",
-      "versionDate": "2026-11-15",
-      "size": 288419468,
+      "version": "12.45.1",
+      "versionDate": "2026-11-20",
+      "size": 290966461,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1365?comment=14900\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1365.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1365-X%2012.44%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.45.1\n\n▪Liquid Glass toggle built in!\nBuilds:\n▪X NFB 7.3.1\n▪X NFB+TWI\n▪Twitter Branded NFB 7.3.1\n▪Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1456?comment=16015\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1456.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1456-X%2012.45.1%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.44",
-          "date": "2026-11-15",
-          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.44 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
-          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1365-X%2012.44%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 288419468,
+          "version": "12.45.1",
+          "date": "2026-11-20",
+          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.45.1 ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1456-X%2012.45.1%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+          "size": 290966461,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: bhFLEX, BHTwitter",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1365.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1456.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261115040026",
+      "fullDate": "20261120040032",
       "type": 1
     },
     {
@@ -464,12 +464,12 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "3.3.1",
-          "buildVersion": "11596",
-          "date": "2026-11-11T13:12:26Z",
-          "localizedDescription": "## 📦 v3.3.1-beta: 2026-11-16\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n- Add the Reddit community link next to Discord (#1105)\n- Show the app's birthday on 13 May, and Since May 2025 in the footer (#1108)\n- Jellyfin: compare an installed build on its jellyfin-web version (#1113) (#1117)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n- fix(desktop): Partner certificate ignored on Tizen 4.1 to 6.x (#1107) (#1111)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n- i18n: new translations from Crowdin (#1110)\n- Developer Mode guide: the Tizen 10 step (#1112) (#1120)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n- Show that the project started in May 2025, and fix the license on the website (#1104)\n- Website and README: 31 languages, with Slovenian (#1106)\n- deps: Bump the nuget group with 9 updates (#1116)\n- Store listing: phone screenshots of version 3 (#1112) (#1119)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
-          "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-          "size": 44583562,
+          "version": "3.3.2",
+          "buildVersion": "11599",
+          "date": "2026-11-19T17:12:28Z",
+          "localizedDescription": "## 📦 v3.3.2-beta: 2026-11-19\n\n\n### 🐛 Bug fixes\n- Desktop dialogs: Cancel cancels, X answers no, errors get a button, Enter and Escape (#1124) (#1130)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.1-beta...v3.3.2-beta",
+          "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.2-beta/Apps2Samsung-v3.3.2-beta-ios-unsigned.ipa",
+          "size": 44584713,
           "minOSVersion": "15.0"
         }
       ],
@@ -479,10 +479,10 @@
           "NSLocalNetworkUsageDescription": "Apps2Samsung looks for Samsung TVs on your Wi-Fi network and talks to the TV you pick to install apps on it."
         }
       },
-      "version": "3.3.1",
-      "versionDescription": "## 📦 v3.3.1-beta: 2026-11-16\n\n\n### 🚀 New features\n- Back up signing certificates automatically (desktop, CLI, phone) (#1070)\n- Update all on desktop, phone and CLI (#1072)\n- Install links: apps2samsung:// in Core and the CLI (#1066) (#1073)\n- Catalog: say so when schemaVersion is newer than this build knows (#1077)\n- Install links: open them in the desktop app (#1066) (#1075)\n- Install links: open them in the phone app (#1066) (#1076)\n- Restore a TV: TV profiles in Core and the CLI (#1069) (#1085)\n- Restore a TV: the desktop screens and saved app lists per TV (#1069) (#1086)\n- Restore a TV on the phone (#1069) (#1087)\n- Restore a TV: saved lists in the backup zip, and the CLI menu (#1069) (#1090)\n- Phone TV list: a Needs attention group that says why (#1079) (#1094)\n- Phone TV card: say why the TV in use refuses this phone (#1079) (#1096)\n- feat(cli): self-update, on the command line and in the menu (#975) (#1099)\n- Add the Reddit community link next to Discord (#1105)\n- Show the app's birthday on 13 May, and Since May 2025 in the footer (#1108)\n- Jellyfin: compare an installed build on its jellyfin-web version (#1113) (#1117)\n### 🐛 Bug fixes\n- Read the DUID past a warning line in the TV's reply (#1081) (#1083)\n- Polish: Saved TVs row, TV-Store page, toolbox header, relay pill, no dash placeholders (#1089)\n- Scan log: an open port is not Ready when Host PC IP names another machine (#1079) (#1093)\n- fix(desktop): status line follows an install from a file to the end (#1100) (#1101)\n- fix(desktop): Partner certificate ignored on Tizen 4.1 to 6.x (#1107) (#1111)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1080)\n- i18n: new translations from Crowdin (#1097)\n- i18n: new translations from Crowdin (#1110)\n- Developer Mode guide: the Tizen 10 step (#1112) (#1120)\n### 🧰 Maintenance & CI\n- chore: version 3.3.1 (#1071)\n- Install links: the apps2samsung.com/install page (#1066) (#1074)\n- rpm: require the OpenSSL library the .NET runtime loads (#1082) (#1084)\n- Show that the project started in May 2025, and fix the license on the website (#1104)\n- Website and README: 31 languages, with Slovenian (#1106)\n- deps: Bump the nuget group with 9 updates (#1116)\n- Store listing: phone screenshots of version 3 (#1112) (#1119)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.0-beta...v3.3.1-beta",
-      "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1-beta/Apps2Samsung-v3.3.1-beta-ios-unsigned.ipa",
-      "size": 44583562,
+      "version": "3.3.2",
+      "versionDescription": "## 📦 v3.3.2-beta: 2026-11-19\n\n\n### 🐛 Bug fixes\n- Desktop dialogs: Cancel cancels, X answers no, errors get a button, Enter and Escape (#1124) (#1130)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.1-beta...v3.3.2-beta",
+      "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.2-beta/Apps2Samsung-v3.3.2-beta-ios-unsigned.ipa",
+      "size": 44584713,
       "minOSVersion": "15.0"
     }
   ]
