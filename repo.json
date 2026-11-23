@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-23 10:36 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-23 19:13 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -177,26 +177,26 @@
       "type": 1
     },
     {
-      "name": "Unbound 1.12.2 (Discord 356.0 - TestFlight)",
+      "name": "Unbound 1.12.4 (Discord 357.0 - TestFlight)",
       "bundleIdentifier": "com.hammerandchisel.discord.testflight",
       "developerName": "TubeVault",
       "iconURL": "https://repo.ballermc.com/tubevault/discord-logo.jpg",
       "subtitle": "Mod by marioparaschiv",
-      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.12.2 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://unbound.rip/",
+      "localizedDescription": "This is modded Discord TestFlight with Unbound 1.12.4 Injected.\nBuilt on Discord's TestFlight, beta and alpha. Expect breakage.\nRead more about the mod here: https://unbound.rip/",
       "tintColor": "#AEB2E2",
       "versions": [
         {
-          "version": "356.0",
-          "date": "2026-11-23T00:00:00Z",
-          "localizedDescription": "This uses version 356.0 of Discord TestFlight Build with Unbound 1.12.2 injected.",
-          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.12.2%20-%20Discord%20356.0-TestFlight.ipa",
-          "size": 101171976
+          "version": "357.0",
+          "date": "2026-11-24T00:00:00Z",
+          "localizedDescription": "This uses version 357.0 of Discord TestFlight Build with Unbound 1.12.4 injected.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.12.4%20-%20Discord%20357.0-TestFlight.ipa",
+          "size": 104245417
         }
       ],
       "appPermissions": {},
-      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.12.2%20-%20Discord%20356.0-TestFlight.ipa",
-      "version": "356.0",
-      "size": 101171976
+      "downloadURL": "https://repo.ballermc.com/tubevault/Unbound%201.12.4%20-%20Discord%20357.0-TestFlight.ipa",
+      "version": "357.0",
+      "size": 104245417
     },
     {
       "name": "Reddit",
