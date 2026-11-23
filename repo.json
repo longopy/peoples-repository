@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-22 15:16 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-23 10:36 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -18,13 +18,13 @@
       "minOSVersion": "16.1",
       "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16)\n\n▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1\n▪Ad blocking and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (Patched)\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (No Plugins): https://t.me/ipavaultchat/13446\n⚠️ Use Spotify 9.1.90 Patched build if you use Feather and a Paid Certificate\n⚠️ Use Spotify 9.1.90 No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Vitrine settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Mod Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Vitrine settings\n3.) Tap on Pixie Download Manager\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes\n\nBuild by: @ipavault\n\nVitrine 1.0.0-b16 by MyNameIsJeff (Forked from Spoti.pw 0.21.1) by skopevoj\nPixie Download Manager 1.4 by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1254.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.1.90",
           "date": "2026-11-08",
           "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16) ▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1 ▪Ad blocking and Spotify Premium settings…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
           "size": 130776379,
           "minOSVersion": "16.1"
         }
@@ -37,6 +37,34 @@
       "type": 1
     },
     {
+      "name": "Spotify (Taurus 0.60.6)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "@ipavault",
+      "version": "9.1.90",
+      "versionDate": "2026-11-11",
+      "size": 138906230,
+      "minOSVersion": "16.1",
+      "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6)\n\n▪Taurus is a GPL-3.0 fork of Chroma.pw\n▪Ad blocking, Offline Listening (Pixie), and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Taurus 0.60.6 (Patched)\n▪Taurus 0.60.6 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Taurus settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Taurus Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Taurus settings\n3.) Tap on Downloads\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nMore Info\n\nBuild by: @ipavault\n\nTaurus 0.60.6 by samj-exe (Forked from Chroma.pw) by skopevoj\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1302.png",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-11-11",
+          "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6) ▪Taurus is a GPL-3.0 fork of Chroma.pw ▪Ad blocking, Offline Listening (Pixie), and Spotify…",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
+          "size": 138906230,
+          "minOSVersion": "16.1"
+        }
+      ],
+      "subtitle": "Tweaks: SpotifyAudioProbe, spotifyglass",
+      "tintColor": "#7ED29D",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1302.png",
+      "bundleID": "com.spotify.client",
+      "fullDate": "20261111040052",
+      "type": 1
+    },
+    {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@ipavault",
@@ -46,13 +74,13 @@
       "minOSVersion": "15.0",
       "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0\n\nLatest commits; Fixes some bugs\n▪Pixie Download Manager included\nBuilds:\n▪EeveeSpotify 7.5.0 (Patched)\n▪EeveeSpotify 7.5.0 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access EeveeSpotify settings:\n\n1.) Go to Spotify Settings\n2.) Tap EeveeSpotify\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes (EeveeSpotify Reincarnated)\n\nBuild by: @ipavault\n\nEeveeSpotify Reincarnated 7.5.0 by SideloadLabs\nPixie Download Manager by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1428.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.2.0",
           "date": "2026-11-18",
           "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0 Latest commits; Fixes some bugs ▪Pixie Download Manager included Builds: ▪EeveeSpotify 7.5.0 (Patched)…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
           "size": 149195832,
           "minOSVersion": "15.0"
         }
@@ -65,31 +93,31 @@
       "type": 1
     },
     {
-      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (6.0 - mrdrvt99)",
+      "name": "YTPlus/YTLite Cracked (6.0)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TubeVault",
-      "version": "21.46.3",
-      "versionDate": "2026-11-18",
-      "size": 153406238,
+      "version": "21.47.6",
+      "versionDate": "2026-11-23",
+      "size": 156121307,
       "minOSVersion": "17.0",
-      "localizedDescription": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed, YTLite +2\n\nCracked by Spy_G.\nThis includes the following tweaks:\nYouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForSpeed, YTNativeShare, Return-YouTube-Dislikes, DontEatMyContent, VolumeBoostYT, and Open In YouTube (Safari Extension).\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "localizedDescription": "Tweaks: YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.46.3_6.0.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.47.6_YTPlus_v6.0_cracked%5Btg@tubevault%5D.ipa",
       "versions": [
         {
-          "version": "21.46.3",
-          "date": "2026-11-18",
-          "localizedDescription": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTHoldForSpeed, YTLite +2\n\nCracked by Spy_G. This includes the following tweaks: YouPiP, YTweaks, Gonerino, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption…",
-          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.46.3_6.0.ipa",
-          "size": 153406238,
+          "version": "21.47.6",
+          "date": "2026-11-23",
+          "localizedDescription": "Tweaks: YTLite\n\nThis is the cracked version of YTPlus, without the Dan Account System DRM. This was cracked by Spy_G",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.47.6_YTPlus_v6.0_cracked%5Btg@tubevault%5D.ipa",
+          "size": 156121307,
           "minOSVersion": "17.0"
         }
       ],
-      "subtitle": "Tweaks: DontEatMyContent, YouTubeNativeShare, YouTubeDislikesReturn +11",
+      "subtitle": "Tweaks: YTLite",
       "tintColor": "#D68A8A",
       "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
       "bundleID": "com.google.ios.youtube",
-      "fullDate": "20261118040040",
+      "fullDate": "20261123040059",
       "type": 1
     },
     {
@@ -130,13 +158,13 @@
       "minOSVersion": "16.1",
       "localizedDescription": "scholars lounge | Nuvio\nVersion: 1.1.0 Beta 1\nBundle ID: com​.nuvio​.media\nApp by tapframe\n\nNuvio Full\nA free, open-source media app for your phone, your desktop, and the TV you already own. \nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86551.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
       "versions": [
         {
           "version": "1.1.0-beta.1",
           "date": "2026-11-17",
           "localizedDescription": "scholars lounge | Nuvio Version: 1.1.0 Beta 1 Bundle ID: com​.nuvio​.media App by tapframe Nuvio Full A free, open-source media app for your phone…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
           "size": 70401015,
           "minOSVersion": "16.1"
         }
@@ -180,13 +208,13 @@
       "minOSVersion": "16.0",
       "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0\n\n- Reddit 2026.46.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86617.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
       "versions": [
         {
           "version": "2026.46.0",
           "date": "2026-11-17",
           "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0 - Reddit 2026.46.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
           "size": 145681819,
           "minOSVersion": "16.0"
         }
@@ -208,13 +236,13 @@
       "minOSVersion": "16.3",
       "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0\n\n▪Updated to Regram 7.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1465.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "456.0.0",
           "date": "2026-11-20",
           "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0 ▪Updated to Regram 7.1 cracked ⚠️ Use Regram build if you use Feather and a Paid Certificate ⚠️ Use Regram…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
           "size": 331347884,
           "minOSVersion": "16.3"
         }
@@ -227,31 +255,31 @@
       "type": 1
     },
     {
-      "name": "X (NFB 7.3.1)",
+      "name": "X (XEnhancer+TWI)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "@ipavault",
-      "version": "12.45.1",
-      "versionDate": "2026-11-22",
-      "size": 290966791,
+      "version": "12.46",
+      "versionDate": "2026-11-23",
+      "size": 291352503,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.45.1\n\n✅Fixed: unable to access NFB settings\nBuilds:\n📲 X NFB 7.3.1\n📲 X NFB+TWI\n🕊 Twitter Branded NFB 7.3.1\n🕊 Twitter Branded NFB+TWI\nSteps to access NeoFreeBird settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n\nSteps to download videos:\n\n1.) From the timeline, click on the three horizontal dots on the top right-hand corner of any post\n2.) Tap ⬇️ Download media\n3.) Tap the desired resolution\n\nSteps to enable native replying:\n\n1.) Open X settings\n2.) Tap NeoFreeBird\n3.) Scroll down and tap Labs\n4.) Toggle OFF “Reply in web view”\n5.) To reply to any post, click on any post, tap the “Post your reply” text box, type your reply, and click reply\n\nSteps to access Liquid Glass settings:\n\n1.) Press and hold the 📲 or 🕊 icon at the top\n2.) Tap Experiments\n3.) Enable Liquid Glass\n✅ Patched\n✅ OpenInTwitter Safari Extension\nTrollStore users, install this: https://t.me/ipavault/1473?comment=16245\n\nBuild by: @ipavault\n\nNeoFreeBird 7.3.1 by orionblur (forked from @nyaathea)\nTWIGalaxy 1.14 by @Dens0r\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1473.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1473-X%2012.45.1%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: XEnhancer, TWIGalaxy\n\nVariant: XEnhancer+TWI\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1513.png",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "12.45.1",
-          "date": "2026-11-22",
-          "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\n@ipavault | Builds of X/Twitter 12.45.1 ✅Fixed: unable to access NFB settings Builds: 📲 X NFB 7.3.1 📲 X NFB+TWI 🕊 Twitter Branded NFB 7.3.1 🕊…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1473-X%2012.45.1%20NFB%207.3.1%20%5B@ipavault%5D.ipa",
-          "size": 290966791,
+          "version": "12.46",
+          "date": "2026-11-23",
+          "localizedDescription": "Tweaks: XEnhancer, TWIGalaxy\n\nVariant: XEnhancer+TWI",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
+          "size": 291352503,
           "minOSVersion": "15.0"
         }
       ],
-      "subtitle": "Tweaks: bhFLEX, BHTwitter",
+      "subtitle": "Tweaks: XEnhancer, TWIGalaxy",
       "tintColor": "#61AAC7",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1473.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1513.png",
       "bundleID": "com.atebits.Tweetie2",
-      "fullDate": "20261122040058",
+      "fullDate": "20261123040059",
       "type": 1
     },
     {
@@ -264,13 +292,13 @@
       "minOSVersion": "15.0",
       "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\nInstructions to access gtok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap gtok settings at the top\n⚠️ Requires an RXTikTok License/Key\nInstructions to access RXTikTok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap RXTikTok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok 1.0.1 by Mod4\ngtok 2.6.1 by @g_tweaks\nRXTikTok 2.0.4 by @BHTikTokPlusPlus\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1425.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "47.8.0",
           "date": "2026-11-18",
           "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0 ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok 2.) Tap the…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
           "size": 526519093,
           "minOSVersion": "15.0"
         }
@@ -350,13 +378,13 @@
       "minOSVersion": "16.0",
       "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.169\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/9051.png",
-      "downloadURL": "https://fastsign.dev/d/q4syc3a0/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/d/41dupptp/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
       "versions": [
         {
           "version": "1.169",
           "date": "2026-11-19",
           "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.169 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
-          "downloadURL": "https://fastsign.dev/d/q4syc3a0/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
+          "downloadURL": "https://fastsign.dev/d/41dupptp/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
           "size": 73383971,
           "minOSVersion": "16.0"
         }
@@ -465,11 +493,11 @@
       "versions": [
         {
           "version": "3.3.3",
-          "buildVersion": "11610",
+          "buildVersion": "11611",
           "date": "2026-11-19T17:45:00Z",
-          "localizedDescription": "## 📦 v3.3.3-beta: 2026-11-22\n\n\n### 🚀 New features\n- Core: typed install failures, so a head can localize them (#1146) (#1151)\n- Desktop: every install signs, the stock Jellyfin build with the shipped certificate (#1148) (#1152)\n- Core: the desktop's recovery paths in PackageInstaller (#1147) (#1154)\n- Desktop: install through Core PackageInstaller, the duplicate flow is gone (#1149) (#1156)\n- Pick up a newer catalog while the app is open (#1157) (#1159)\n- Core: read the end dates of the shipped authorities and fetch newer ones (#1153) (#1161)\n- Desktop: ask before going on when the shipped certificates have ended (#1153) (#1163)\n- The ended-certificates question in the CLI, on the phone and in Prepare the certificate now (#1153) (#1165)\n- Refresh the catalog by hand, and On the TV starts over after a newer catalog (#1162) (#1166)\n### 🐛 Bug fixes\n- Strings: hardcoded English, singular app count, Remote and Back translations (#1126) (#1132)\n- Mobile: reload the catalog, keyboards, confirmations, accessible names, monospace on iOS (#1127) (#1133)\n- CLI: honest uninstall result, token off the screen, one-line errors with a hint, help for every verb (#1128) (#1134)\n- Desktop polish: shortcuts, window placement remembered, accent toggles, older windows on the tokens (#1129) (#1135)\n- Wider sidebar and text that fits, desktop and mobile (#1123, #1125) (#1131)\n- Debug console: Attach service works while the app's console is open (#1140) (#1141)\n- Sign a renamed or patched package again on Tizen 4.1 to 6.x, and fix the Tizen certificate sheet crash (#1143) (#1144)\n- An empty translation is not a translation (#1167)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1139)\n- i18n: new translations from Crowdin (#1168)\n### 🧰 Maintenance & CI\n- CI: pin the .NET SDK to 10.0, the iOS job broke on a runner image with .NET 11 (#1142)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.2-beta...v3.3.3-beta",
+          "localizedDescription": "## 📦 v3.3.3-beta: 2026-11-23\n\n\n### 🚀 New features\n- Core: typed install failures, so a head can localize them (#1146) (#1151)\n- Desktop: every install signs, the stock Jellyfin build with the shipped certificate (#1148) (#1152)\n- Core: the desktop's recovery paths in PackageInstaller (#1147) (#1154)\n- Desktop: install through Core PackageInstaller, the duplicate flow is gone (#1149) (#1156)\n- Pick up a newer catalog while the app is open (#1157) (#1159)\n- Core: read the end dates of the shipped authorities and fetch newer ones (#1153) (#1161)\n- Desktop: ask before going on when the shipped certificates have ended (#1153) (#1163)\n- The ended-certificates question in the CLI, on the phone and in Prepare the certificate now (#1153) (#1165)\n- Refresh the catalog by hand, and On the TV starts over after a newer catalog (#1162) (#1166)\n### 🐛 Bug fixes\n- Strings: hardcoded English, singular app count, Remote and Back translations (#1126) (#1132)\n- Mobile: reload the catalog, keyboards, confirmations, accessible names, monospace on iOS (#1127) (#1133)\n- CLI: honest uninstall result, token off the screen, one-line errors with a hint, help for every verb (#1128) (#1134)\n- Desktop polish: shortcuts, window placement remembered, accent toggles, older windows on the tokens (#1129) (#1135)\n- Wider sidebar and text that fits, desktop and mobile (#1123, #1125) (#1131)\n- Debug console: Attach service works while the app's console is open (#1140) (#1141)\n- Sign a renamed or patched package again on Tizen 4.1 to 6.x, and fix the Tizen certificate sheet crash (#1143) (#1144)\n- An empty translation is not a translation (#1167)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1139)\n- i18n: new translations from Crowdin (#1168)\n### 🧰 Maintenance & CI\n- CI: pin the .NET SDK to 10.0, the iOS job broke on a runner image with .NET 11 (#1142)\n- CI: bump actions/setup-java from 6.2.0 to 6.3.0 in the actions group (#1173)\n- deps: Bump the nuget group with 1 update (#1172)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.2-beta...v3.3.3-beta",
           "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.3-beta/Apps2Samsung-v3.3.3-beta-ios-unsigned.ipa",
-          "size": 44800399,
+          "size": 44800478,
           "minOSVersion": "15.0"
         }
       ],
@@ -480,9 +508,9 @@
         }
       },
       "version": "3.3.3",
-      "versionDescription": "## 📦 v3.3.3-beta: 2026-11-22\n\n\n### 🚀 New features\n- Core: typed install failures, so a head can localize them (#1146) (#1151)\n- Desktop: every install signs, the stock Jellyfin build with the shipped certificate (#1148) (#1152)\n- Core: the desktop's recovery paths in PackageInstaller (#1147) (#1154)\n- Desktop: install through Core PackageInstaller, the duplicate flow is gone (#1149) (#1156)\n- Pick up a newer catalog while the app is open (#1157) (#1159)\n- Core: read the end dates of the shipped authorities and fetch newer ones (#1153) (#1161)\n- Desktop: ask before going on when the shipped certificates have ended (#1153) (#1163)\n- The ended-certificates question in the CLI, on the phone and in Prepare the certificate now (#1153) (#1165)\n- Refresh the catalog by hand, and On the TV starts over after a newer catalog (#1162) (#1166)\n### 🐛 Bug fixes\n- Strings: hardcoded English, singular app count, Remote and Back translations (#1126) (#1132)\n- Mobile: reload the catalog, keyboards, confirmations, accessible names, monospace on iOS (#1127) (#1133)\n- CLI: honest uninstall result, token off the screen, one-line errors with a hint, help for every verb (#1128) (#1134)\n- Desktop polish: shortcuts, window placement remembered, accent toggles, older windows on the tokens (#1129) (#1135)\n- Wider sidebar and text that fits, desktop and mobile (#1123, #1125) (#1131)\n- Debug console: Attach service works while the app's console is open (#1140) (#1141)\n- Sign a renamed or patched package again on Tizen 4.1 to 6.x, and fix the Tizen certificate sheet crash (#1143) (#1144)\n- An empty translation is not a translation (#1167)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1139)\n- i18n: new translations from Crowdin (#1168)\n### 🧰 Maintenance & CI\n- CI: pin the .NET SDK to 10.0, the iOS job broke on a runner image with .NET 11 (#1142)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.2-beta...v3.3.3-beta",
+      "versionDescription": "## 📦 v3.3.3-beta: 2026-11-23\n\n\n### 🚀 New features\n- Core: typed install failures, so a head can localize them (#1146) (#1151)\n- Desktop: every install signs, the stock Jellyfin build with the shipped certificate (#1148) (#1152)\n- Core: the desktop's recovery paths in PackageInstaller (#1147) (#1154)\n- Desktop: install through Core PackageInstaller, the duplicate flow is gone (#1149) (#1156)\n- Pick up a newer catalog while the app is open (#1157) (#1159)\n- Core: read the end dates of the shipped authorities and fetch newer ones (#1153) (#1161)\n- Desktop: ask before going on when the shipped certificates have ended (#1153) (#1163)\n- The ended-certificates question in the CLI, on the phone and in Prepare the certificate now (#1153) (#1165)\n- Refresh the catalog by hand, and On the TV starts over after a newer catalog (#1162) (#1166)\n### 🐛 Bug fixes\n- Strings: hardcoded English, singular app count, Remote and Back translations (#1126) (#1132)\n- Mobile: reload the catalog, keyboards, confirmations, accessible names, monospace on iOS (#1127) (#1133)\n- CLI: honest uninstall result, token off the screen, one-line errors with a hint, help for every verb (#1128) (#1134)\n- Desktop polish: shortcuts, window placement remembered, accent toggles, older windows on the tokens (#1129) (#1135)\n- Wider sidebar and text that fits, desktop and mobile (#1123, #1125) (#1131)\n- Debug console: Attach service works while the app's console is open (#1140) (#1141)\n- Sign a renamed or patched package again on Tizen 4.1 to 6.x, and fix the Tizen certificate sheet crash (#1143) (#1144)\n- An empty translation is not a translation (#1167)\n### 🌍 Translations\n- i18n: new translations from Crowdin (#1139)\n- i18n: new translations from Crowdin (#1168)\n### 🧰 Maintenance & CI\n- CI: pin the .NET SDK to 10.0, the iOS job broke on a runner image with .NET 11 (#1142)\n- CI: bump actions/setup-java from 6.2.0 to 6.3.0 in the actions group (#1173)\n- deps: Bump the nuget group with 1 update (#1172)\n\n**Full Changelog**: https://github.com/Apps2Samsung/Apps2Samsung/compare/v3.3.2-beta...v3.3.3-beta",
       "downloadURL": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.3-beta/Apps2Samsung-v3.3.3-beta-ios-unsigned.ipa",
-      "size": 44800399,
+      "size": 44800478,
       "minOSVersion": "15.0"
     }
   ]
