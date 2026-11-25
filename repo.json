@@ -3,7 +3,7 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-24 18:52 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-25 17:57 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
@@ -18,13 +18,13 @@
       "minOSVersion": "16.1",
       "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16)\n\n▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1\n▪Ad blocking and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (Patched)\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (No Plugins): https://t.me/ipavaultchat/13446\n⚠️ Use Spotify 9.1.90 Patched build if you use Feather and a Paid Certificate\n⚠️ Use Spotify 9.1.90 No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Vitrine settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Mod Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Vitrine settings\n3.) Tap on Pixie Download Manager\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes\n\nBuild by: @ipavault\n\nVitrine 1.0.0-b16 by MyNameIsJeff (Forked from Spoti.pw 0.21.1) by skopevoj\nPixie Download Manager 1.4 by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1254.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.1.90",
           "date": "2026-11-08",
           "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16) ▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1 ▪Ad blocking and Spotify Premium settings…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
           "size": 130776379,
           "minOSVersion": "16.1"
         }
@@ -46,13 +46,13 @@
       "minOSVersion": "16.1",
       "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6)\n\n▪Taurus is a GPL-3.0 fork of Chroma.pw\n▪Ad blocking, Offline Listening (Pixie), and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Taurus 0.60.6 (Patched)\n▪Taurus 0.60.6 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Taurus settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Taurus Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Taurus settings\n3.) Tap on Downloads\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nMore Info\n\nBuild by: @ipavault\n\nTaurus 0.60.6 by samj-exe (Forked from Chroma.pw) by skopevoj\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1302.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.1.90",
           "date": "2026-11-11",
           "localizedDescription": "Tweaks: SpotifyAudioProbe, spotifyglass\n\n@ipavault | Builds of Spotify 9.1.90 (Taurus 0.60.6) ▪Taurus is a GPL-3.0 fork of Chroma.pw ▪Ad blocking, Offline Listening (Pixie), and Spotify…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1302-Spotify%209.1.90%20%28Taurus%200.60.6%29%20%5B@ipavault%5D.ipa",
           "size": 138906230,
           "minOSVersion": "16.1"
         }
@@ -74,13 +74,13 @@
       "minOSVersion": "15.0",
       "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0\n\nLatest commits; Fixes some bugs\n▪Pixie Download Manager included\nBuilds:\n▪EeveeSpotify 7.5.0 (Patched)\n▪EeveeSpotify 7.5.0 (No Plugins)\n⚠️ Use Spotify Patched build if you use Feather and a Paid Certificate \n⚠️ Use Spotify No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access EeveeSpotify settings:\n\n1.) Go to Spotify Settings\n2.) Tap EeveeSpotify\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes (EeveeSpotify Reincarnated)\n\nBuild by: @ipavault\n\nEeveeSpotify Reincarnated 7.5.0 by SideloadLabs\nPixie Download Manager by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1428.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "9.2.0",
           "date": "2026-11-18",
           "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.2.0 Latest commits; Fixes some bugs ▪Pixie Download Manager included Builds: ▪EeveeSpotify 7.5.0 (Patched)…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1428-Spotify%209.2.0%20%28EeveeSpotify%207.5.0%29%20%5B@ipavault%5D.ipa",
           "size": 149195832,
           "minOSVersion": "15.0"
         }
@@ -158,13 +158,13 @@
       "minOSVersion": "16.1",
       "localizedDescription": "scholars lounge | Nuvio\nVersion: 1.1.0 Beta 1\nBundle ID: com​.nuvio​.media\nApp by tapframe\n\nNuvio Full\nA free, open-source media app for your phone, your desktop, and the TV you already own. \nBring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86551.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
       "versions": [
         {
           "version": "1.1.0-beta.1",
           "date": "2026-11-17",
           "localizedDescription": "scholars lounge | Nuvio Version: 1.1.0 Beta 1 Bundle ID: com​.nuvio​.media App by tapframe Nuvio Full A free, open-source media app for your phone…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/scholars-lounge/86551-nuvio-1.1.0-beta.1-full-release.ipa",
           "size": 70401015,
           "minOSVersion": "16.1"
         }
@@ -208,13 +208,13 @@
       "minOSVersion": "16.0",
       "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0\n\n- Reddit 2026.46.0\n- RedditFilter (MoeReddit) hold 3 fingers down to get the menu\n- redditColorComments\n- OledKeyboard\n- RedditSideloadFix\n- Patch already included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/86617.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
       "versions": [
         {
           "version": "2026.46.0",
           "date": "2026-11-17",
           "localizedDescription": "Tweaks: MoesReddit\n\nscholars lounge | RedditDeluxe 2026.46.0 - Reddit 2026.46.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/scholars-lounge/86617-RedditDeluxes_2026.46.0_Jacks_Apps.ipa",
           "size": 145681819,
           "minOSVersion": "16.0"
         }
@@ -236,13 +236,13 @@
       "minOSVersion": "16.3",
       "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0\n\n▪Updated to Regram 7.1 cracked\n⚠️ Use Regram build if you use Feather and a Paid Certificate \n⚠️ Use Regram No Plugins build if you use SideStore/AltStore/Sideloadly\n✅ OpenInRegram Safari Extension\n\nBuild by: @ipavault\n\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1465.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
       "versions": [
         {
           "version": "456.0.0",
           "date": "2026-11-20",
           "localizedDescription": "Tweaks: Regram\n\n@ipavault | Builds of Instagram 456.0.0 ▪Updated to Regram 7.1 cracked ⚠️ Use Regram build if you use Feather and a Paid Certificate ⚠️ Use Regram…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1465-Regram%207.1%20%28IG%20456.0.0%29%20No%20Plugins.ipa",
           "size": 331347884,
           "minOSVersion": "16.3"
         }
@@ -264,13 +264,13 @@
       "minOSVersion": "15.0",
       "localizedDescription": "Tweaks: XEnhancer, TWIGalaxy\n\nVariant: XEnhancer+TWI\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/ipavault/1513.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
           "version": "12.46",
           "date": "2026-11-23",
           "localizedDescription": "Tweaks: XEnhancer, TWIGalaxy\n\nVariant: XEnhancer+TWI",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1513-X%2012.46%20%28XEnhancer+TWI%29%20%5B@ipavault%5D.ipa",
           "size": 291352503,
           "minOSVersion": "15.0"
         }
@@ -286,28 +286,28 @@
       "name": "TikTok (Infinitok 1.0.1)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "@ipavault",
-      "version": "47.8.0",
-      "versionDate": "2026-11-18",
-      "size": 526519093,
+      "version": "47.9.0",
+      "versionDate": "2026-11-25",
+      "size": 564096777,
       "minOSVersion": "15.0",
-      "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0\n\n⚠️ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\nInstructions to access gtok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap gtok settings at the top\n⚠️ Requires an RXTikTok License/Key\nInstructions to access RXTikTok Settings:\n\n1.) Open TikTok\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap RXTikTok settings under Account\n✅ Patched\n✅ OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\nInfinitok 1.0.1 by Mod4\ngtok 2.6.1 by @g_tweaks\nRXTikTok 2.0.4 by @BHTikTokPlusPlus\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1425.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
+      "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | 🎪 Builds of TikTok 47.9.0\n\n⚠ Clean install recommended if crashes\nInstructions to access Infinitok Settings:\n\n1.) Open TikTok 🎪\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap ♾️ Infinitok settings under Account\nInstructions to access gtok Settings:\n\n1.) Open TikTok 🎪\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap gtok settings at the top\n⚠️ Requires an RXTikTok License/Key\nInstructions to access RXTikTok Settings:\n\n1.) Open TikTok 🎪\n2.) Tap the Profile👤icon on the tab bar\n3.) Tap the Three Horizontal Lines 🏁 menu bar on the top right-hand corner\n4.) Tap Settings and Privacy ⚙️\n5.) Tap RXTikTok settings under Account\n✅  Patched\n✅  OpenInTikTok Safari Extension\n\nBuild by: @ipavault\n\nCredits:\n🎪 Infinitok 1.0.1 by Mod4\n🎪 gtok 2.6.1 by @g_tweaks\n🎪 RXTikTok 2.0.4 by @BHTikTokPlusPlus\n🔒 Decrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
+      "iconURL": "https://fastsign.dev/tg-icon/ipavault/1535.png",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1535-TikTok%2047.9.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
       "versions": [
         {
-          "version": "47.8.0",
-          "date": "2026-11-18",
-          "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | Builds of TikTok 47.8.0 ⚠️ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok 2.) Tap the…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/ipavault/1425-TikTok%2047.8.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
-          "size": 526519093,
+          "version": "47.9.0",
+          "date": "2026-11-25",
+          "localizedDescription": "Tweaks: PathRedirect, Infinitok\n\n@ipavault | 🎪 Builds of TikTok 47.9.0 ⚠ Clean install recommended if crashes Instructions to access Infinitok Settings: 1.) Open TikTok 🎪 2.) Tap…",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/ipavault/1535-TikTok%2047.9.0%20%28Infinitok%201.0.1%29%20%5B@ipavault%5D.ipa",
+          "size": 564096777,
           "minOSVersion": "15.0"
         }
       ],
       "subtitle": "Tweaks: PathRedirect, Infinitok",
       "tintColor": "#BA949C",
-      "icon": "https://fastsign.dev/tg-icon/ipavault/1425.png",
+      "icon": "https://fastsign.dev/tg-icon/ipavault/1535.png",
       "bundleID": "com.zhiliaoapp.musically",
-      "fullDate": "20261118040040",
+      "fullDate": "20261125040059",
       "type": 1
     },
     {
@@ -350,23 +350,23 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "1.7.1",
-          "buildVersion": "405",
-          "date": "2026-11-12",
-          "localizedDescription": "- The Twitch source asks for its stream like Streamlink does, which Twitch serves with far fewer ads (pre-rolls and long ad pods). Contributed by ihavenoface\n- During an ad pod the countdown now runs to the end of the whole pod instead of restarting with every ad. Contributed by ihavenoface\n- Animated emotes play at their real speed: held frames keep their hold and very long emotes no longer skip frames. Contributed by ihavenoface\n- Apple TV: The Twitch source asks for its stream like Streamlink does, which Twitch serves with far fewer ads, and the ad countdown runs to the end of the whole pod. Contributed by ihavenoface\n- Ad breaks counted for the website's /stats now include the live source and whether it was a Twitch pre-roll or the channel's own break\n- Apple TV: Ad breaks counted for the website's /stats now include the live source and whether it was a Twitch pre-roll or the channel's own break\n- Swipe from the edge to close the player now works even when the swipe starts over the video or the chat\n- The mini player bar hides while the Picture-in-Picture window is open, and comes back when it closes\n- The chapters list opens on the current chapter\n- Importing a backup now works in LiveContainer without turning on its Fix File Picker option\n- In landscape, the video takes the whole width of the iPhone Duo's outer screen, centered (it stopped at the status column), and the empty margin on the side away from the Dynamic Island when the chat is in a column\n- Lives that come straight from Twitch (Twitch source, vertical picture) now filter Twitch's ad segments: the picture holds on the last frame instead of the purple ad screen, with the countdown, and the ads aren't downloaded. Higher qualities through your account still switch to the ad-free source (1080p) during an ad break, as before. Contributed by ihavenoface\n- iOS 16: the player's seek bar no longer stays on screen after minimizing the player\n- AirPlay: low latency no longer jumps to the live edge while the stream plays on the TV, which kept freezing the picture\n- An offline channel's page has a Chat button: Twitch keeps its chat open between streams, to read and write there\n- Every category shows its viewer count again (Top, search and followed), not only the ones followed on your Twitch account\n- Favorite emotes: long-press an emote (in the chat or the picker) or use its card to add it to your favorites, shown first in the emote picker's new Favorites tab; synced with the website\n- Live streams show how long they've been live, on cards and in lists\n- A category's streams no longer repeat its name under each one\n- Followed categories always show their viewer count\n- Downloading a VOD: pick chapters to keep just one game or part of the stream\n- iPhone Duo: in the full-size player, buttons and text keep clear of the screen's rounded corners\n- Landscape chat: the resize handle no longer sits on top of messages, and the chat fills the empty margin next to it\n- Traditional Chinese: channel points are now called 忠誠點數, as on Twitch\n- Chat over the video can sit left or right, full height or in a corner (Settings → Chat)\n- In landscape, the chat uses the empty safe margin next to it, so the video is bigger\n- \"Streams as a list\" now also applies to categories and search results\n- New option to close the player by swiping from the left edge (Settings → Player, off by default)\n- With Recent streamers off, opened channels are no longer remembered\n- Settings: swiping back from the left edge no longer closes the settings when your finger drifts down\n- iPhone Duo: tabs move into the status column, as an icon pill under the clock, and the header gets a top margin\n- New in Features in testing (iOS 26): native Liquid Glass tabs instead of the app's tab bar\n- New \"My source\" option: add your own luminous-ttv server to the live sources (Settings → Player)\n- Bug reports and ideas are signed with your Twitch account when you're logged in (a switch, on by default), or with an optional nickname otherwise, so the developer knows it's you from one report to the next\n- New \"No Twitch account\" option at the top of Settings → General → Customize the app: hides everything that needs an account or asks you to log in (Account, Drops and Channel points pages, sign-in cards, log-in reminders, clip creation); it never hides anything while you're logged in\n- VODs, a live's recording and clips now show the channel's name with the title next to it, like lives: tap the title to read it in full, with the broadcast date\n- Other improvements and fixes",
-          "downloadURL": "https://github.com/MXFia19/TwitchUnblock/releases/download/nightly-405/TwitchUnblock.ipa",
-          "size": 4617383,
-          "commit": "cbca49247bbfd4cf6ba53be30dbe048e36a5aee5"
+          "version": "1.7.2",
+          "buildVersion": "428",
+          "date": "2026-11-25",
+          "localizedDescription": "- VODs by game: the filter now finds VODs where the game was played mid-stream, not only the one they started with\n- Fix: picking a chat badge failed (\"operation not found\")\n- Chat identity: also pick the badge shown on the channel you're watching (subscription, bits…), next to the global one\n- Settings → Chat → Chat identity: pick the global badge shown next to your name in every chat (web session)\n- Minimized player: the mini player at the bottom now shows the video, with play/pause\n- New setting (Settings → Player): double-tap ±10 s on lives, instead of showing or hiding the chat\n- @names in a stream's title (tap the title in the player) open their channel\n- Followed categories: your Twitch account's categories also show without the web session\n- VODs no longer stop with an error when Twitch has deleted the original sound of a muted part: the VOD starts again at the same place, with that part kept silent\n- iOS 16: the app responds to touches again after minimizing the player\n- The website moved to twitchunblock-web.pages.dev: the app's links to it now open the new address\n- When the server gets close to its daily limit, the app pauses the usage count, announcements and polls until midnight UTC, so live streams and VODs keep working.\n- Hidden tags: type the tags whose streams you don't want to see (“vtuber”, for example) in the hidden list in Settings, or long-press a stream → Hide the tag. Those streams leave Top, categories and search; synced with your account and the website.\n- Picture in Picture is turned off in LiveContainer's multitasking mode, where it doesn't work (it stays in single-app mode).\n- When a streamer delays their own stream (against stream sniping), the app says so once and shows the delay under the qualities, so it isn't mistaken for lag from the app.\n- Channels that Twitch doesn't transcode only have the Source quality: the quality picker now explains it instead of looking broken.\n- If your network blocks the Bulgaria source (often a DNS filter such as NextDNS or AdGuard), the app tells you which address to allow.\n- Landscape chat: when the chat kept following the live but showed an empty area (it only came back after rotating the phone), the list now rebuilds itself.\n- BetterTTV, FFZ and 7TV emotes that load after the chat has connected now also show in the messages already on screen; a service that didn't answer is tried again when you reopen the chat instead of never until the app restarts, and its failure is written to the log.\n- Live rewind at 2×: with Low latency on, the catch-up speed was undone every second and the player got stuck; it now plays at the chosen speed up to the live edge.\n- Channel ad break while subscribed: if an ad break comes although your account watches that channel ad-free, the app checks your account again and reloads the live through it; logged in without the web session, it tells you once how to watch ad-free with your sub.\n- Viewer counts past a million now read 1.2M instead of 1234.6k.\n- Connect an LG TV: Settings → Twitch Account → Connect an LG TV scans the QR code shown by the TwitchUnblock app on an LG TV and, after you confirm, sends it your Twitch web session, encrypted end to end, so the TV watches with your account (ad-free subs, followed channels). Only TwitchUnblock's Workers (or your own Worker) can receive it.\n- New live source \"My proxy\" (Settings → Player): your own HTTP proxy (host:port, optional username and password, e.g. a TTV LOL PRO proxy). The playback token and the stream's playlists go through it while the video still comes straight from Twitch; if it can't be reached or refuses the credentials, the next source takes over and Settings says why.\n- Following a category while your Twitch web session is connected now also follows it on your Twitch account; if Twitch refuses, it stays followed in the app.\n- Player: new setting \"Volume and brightness by swiping\" (Settings → Player, off by default) — in landscape, swipe up or down on the right third of the picture for the volume, on the left third for the brightness, with a small indicator; the middle keeps the swipe down that minimizes the player.\n- Settings → Backup: \"Send my settings to TU Test\" (or \"to TwitchUnblock\" from TU Test), shown when the other app is installed, opens it with your channels, settings and Continue watching; it asks Everything / Channels only before importing. Large backups go through the clipboard (Import from clipboard).\n- Channel VODs: a game filter (All games by default) next to the keyword filter shows only the VODs of the game you pick, with the number of VODs per game, and loads older VODs when few are found.\n- Player: in landscape, drag the chat over the picture by the small handle at its top — when you let go, it snaps to the nearest corner or edge (the six places of Settings → Chat → Chat on the video), to keep it clear of the facecam.\n- Chat: new \"Hide gifted subs\" setting (Settings → Chat, off by default) hides the \"X gifted a sub to Y\" lines that flood the chat when someone gifts a batch, including the ones already shown; the batch message stays. Synced with the website and kept in the backup.\n- Multi-live: the tile you hear can switch to audio only (🎧 on the tile) — a plain background replaces the picture, for less data and battery; the same button brings the picture back.\n- Live sources: the public proxies (Luminous, PerfProd, nadeko) are gone — they let hundreds of ads a day through.\n- New test source \"Bulgaria\": a TwitchUnblock relay in Sofia fetches the stream's playlists from Bulgaria, to see whether Twitch serves fewer ads there. Official Twitch takes over when it doesn't answer.\n- Apple TV: live sources are now Bulgaria (test) and official Twitch; the public proxies were removed.\n- VODs with no sound on Twitch: some channels record only an empty audio track in their VODs. A few seconds in, the player now notices it and says so at the top of the video (\"This VOD has no sound on Twitch\"), instead of looking broken.\n- Apple TV: VODs with no sound on Twitch are now announced at the top of the video.\n- Bug reports and shared or exported logs now attach the log in English, whatever the app's language (the logs screen still follows your language)",
+          "downloadURL": "https://github.com/MXFia19/TwitchUnblock/releases/download/nightly-428/TwitchUnblock.ipa",
+          "size": 4898614,
+          "commit": "abf28a13f6c98a38bb9c79c0b6b47ff5d0059304"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.7.1",
-      "versionDate": "2026-11-12",
-      "downloadURL": "https://github.com/MXFia19/TwitchUnblock/releases/download/nightly-405/TwitchUnblock.ipa",
-      "size": 4617383
+      "version": "1.7.2",
+      "versionDate": "2026-11-25",
+      "downloadURL": "https://github.com/MXFia19/TwitchUnblock/releases/download/nightly-428/TwitchUnblock.ipa",
+      "size": 4898614
     },
     {
       "name": "Lyfta",
@@ -378,13 +378,13 @@
       "minOSVersion": "16.0",
       "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log\n\nTweak: Premium Unlocked\n\nVersion: 1.169\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.lyftaios\nDeveloper: Lindberg Development AS\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/9051.png",
-      "downloadURL": "https://fastsign.dev/d/8132kbnw/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
       "versions": [
         {
           "version": "1.169",
           "date": "2026-11-19",
           "localizedDescription": "Tweaks: riftyslyfta\n\n@riftysIPAlibrary | Lyfta: Gym Workout Tracker Log Tweak: Premium Unlocked Version: 1.169 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
-          "downloadURL": "https://fastsign.dev/d/8132kbnw/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/riftysipalibrary/9051-Lyfta:%20Gym%20Workout%20Tracker%20Log-v1.169-riftysipas.ipa",
           "size": 73383971,
           "minOSVersion": "16.0"
         }
@@ -399,27 +399,27 @@
     {
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
-      "developerName": "AppTesters IPA Repo",
+      "developerName": "@blatants",
       "version": "26.46.0",
       "versionDate": "2026-11-18",
       "size": 219813653,
       "minOSVersion": "18.0",
       "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter\n\n• Bundle ID: com.myfitnesspal.mfp\n• Updated to: 26.46.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nSome features are server-sided and cannot be accessed.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://fastsign.dev/tg-icon/blatants/13581.png",
+      "downloadURL": "https://fastsign.dev/d/bs34ial0/blatants/13581-MyFitnessPal_Calorie_Counter_v26_46_0_Subscription_Unlocked_blatant.ipa",
       "versions": [
         {
           "version": "26.46.0",
           "date": "2026-11-18",
           "localizedDescription": "@blatants | MyFitnessPal: Calorie Counter • Bundle ID: com.myfitnesspal.mfp • Updated to: 26.46.0 • Minimum iOS: 18.0 • Patched • Modifier…",
-          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "downloadURL": "https://fastsign.dev/d/bs34ial0/blatants/13581-MyFitnessPal_Calorie_Counter_v26_46_0_Subscription_Unlocked_blatant.ipa",
           "size": 219813653,
           "minOSVersion": "18.0"
         }
       ],
       "subtitle": "Subscription unlocked. Some features are server-sided and cannot be accessed",
       "tintColor": "#84A6D4",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "icon": "https://fastsign.dev/tg-icon/blatants/13581.png",
       "bundleID": "com.myfitnesspal.mfp",
       "fullDate": "20261118040040",
       "type": 1
@@ -461,7 +461,7 @@
       "size": 142303569,
       "minOSVersion": "15.5",
       "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.webp",
       "downloadURL": "https://github.com/Leviidev/Husk/releases/download/3.4/Husk.ipa",
       "versions": [
         {
@@ -474,8 +474,8 @@
         }
       ],
       "subtitle": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio…",
-      "tintColor": "#10ADEB",
-      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "tintColor": "#9795D3",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.webp",
       "bundleID": "com.husk.app",
       "fullDate": "20261105105112",
       "type": 1
