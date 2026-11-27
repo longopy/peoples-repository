@@ -3,11 +3,33 @@
   "identifier": "com.peoples.repo",
   "author": "Longopy",
   "website": "https://github.com/longopy/peoples-repository",
-  "subtitle": "The apps that all the People need. Updated at: 2026-11-27 17:27 UTC",
+  "subtitle": "The apps that all the People need. Updated at: 2026-11-27 23:36 UTC",
   "description": "A repository containing all the essential apps for the People.",
   "tintColor": "#10ADEB",
   "iconURL": "https://raw.githubusercontent.com/longopy/peoples-repository/refs/heads/main/assets/logo.webp",
   "apps": [
+    {
+      "name": "Vitrine v1.0.0-b16 + Pixie v1.4 (Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "TubeVault",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "subtitle": "Mod by glongq, build by IPAVault",
+      "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.4.",
+      "tintColor": "#7FD29D",
+      "versions": [
+        {
+          "version": "9.1.90",
+          "date": "2026-11-07T00:00:00Z",
+          "localizedDescription": "This uses 9.1.90 version of Spotify.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Vitrine%2BPixie)%20No%20Plugins.ipa",
+          "size": 129666696
+        }
+      ],
+      "appPermissions": {},
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20(Vitrine%2BPixie)%20No%20Plugins.ipa",
+      "version": "9.1.90",
+      "size": 129666696
+    },
     {
       "name": "Spotify (Taurus 0.60.6)",
       "bundleIdentifier": "com.spotify.client",
